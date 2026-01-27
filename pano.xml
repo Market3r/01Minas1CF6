@@ -1,0 +1,1713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="1" start="node9" apprev="21010" appversion="7.1.11">
+  <panorama id="node9">
+    <input width="1750" overlap="1" levelbias="0.400" height="1750" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="1750" width="1750" predecode="0" preload="0"/>
+      <level height="875" width="875" predecode="0" preload="0"/>
+      <level height="437" width="437" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="105.526">
+      <start fov="148.12" pan="165.82" projection="4" tilt="0.24"/>
+      <flyin fov="110" pan="0" projection="4" tilt="-30"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Floor1|Hall" copyright="Market3r" customnodeid="" datetime="23/12/2025 13:57" title="Hall de entrada" altitude="890.10" source="" longitude="-43.94063116" latitude="-19.93567930" nodeid="node9" heading="105.526" description="" info="" comment="">
+      <mapcoords y="-0.192261" x="0.2108" x_floorplan_percent="12.0392" y_floorplan_percent="19.5531" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-189.56" id="Point02" title="2 Pontos de Energia&#xa;&#xa;         127V&#xa;" distance3D="85.7254" customimage="media/Energia-1.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-11.73" customimagewidth="15" description="" target="" customimageheight="15"/>
+      <hotspot pan="-18.88" id="Point03" title="2 Pontos de Energia&#xa;&#xa;127V - 220V" distance3D="102.87" customimage="media/Energia.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-14.43" customimagewidth="18" description="" target="" customimageheight="18"/>
+      <hotspot pan="-130.59" id="Point01" title="Salão Principal" distance="133.235" skinid="ht_node" url="{node100}" tilt="-3.75" description="" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node100">
+    <input width="1425" overlap="1" levelbias="0.400" height="1425" leveltilesize="510" leveltileurl="tiles/node100/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="1425" width="1425" predecode="0" preload="0"/>
+      <level height="712" width="712" predecode="0" preload="0"/>
+      <level height="356" width="356" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="103.903">
+      <start fov="100" pan="-107.97" projection="4" tilt="-0.08"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="" tags="ProjetoSalodeFestasMinas1-CF6|Floor1" copyright="" customnodeid="" datetime="23/12/2025 15:30" title="Salão Principal" altitude="883.70" source="" longitude="-43.940278" latitude="-19.934528" nodeid="node100" heading="103.903" description="" info="" comment="">
+      <mapcoords y="-0.227966" x="0.381775" x_floorplan_percent="21.8039" y_floorplan_percent="23.1844" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-82.62" id="Point02" title="Saída Lateral&#xa;&#xa;Operação e Serviços" distance3D="160.021" customimage="media/Sa�da Lateral.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-2.94" customimagewidth="28" description="" target="" customimageheight="38"/>
+      <hotspot pan="-104.8" id="Point03" title="Palco&#xa;Local para &#xa;Montagem" distance3D="142.876" customimage="media/�cone Inf. com haste M�dia.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-1.87" customimagewidth="25" description="" target="" customimageheight="35"/>
+      <hotspot pan="-122.27" id="Point04" title="Saída Lateral&#xa;&#xa;Operação e Serviços" distance3D="165.736" customimage="media/Sa�da Lateral.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-1.1" customimagewidth="29" description="" target="" customimageheight="41"/>
+      <hotspot pan="-83.04" id="Point05" title="Salão Visão 04" distance="158.708" skinid="ht_node" url="{node96}" tilt="-10.74" description="" target=""/>
+      <hotspot pan="-104.49" id="Point06" title="Salão Visão 05" distance="158.808" skinid="ht_node" url="{node94}" tilt="-9.66" description="" target=""/>
+      <hotspot pan="-123.56" id="Point07" title="Salão Visão 06" distance="159.691" skinid="ht_node" url="{node19}" tilt="-8.08" description="" target=""/>
+      <hotspot pan="-187.46" id="Point08" title="Elevador&#xa;Pessoas com&#xa;Mobilidade Reduzida" distance3D="125.731" customimage="media/Elevador haste G.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-3.45" customimagewidth="22" description="" target="" customimageheight="48"/>
+      <hotspot pan="-207.55" id="Point09" title="Mezanino Visão 01" distance="139.405" skinid="ht_node" url="{node42}" tilt="-1.04" description="" target=""/>
+      <hotspot pan="-188.36" id="Point10" title="Salão Visão 03" distance="141.308" skinid="ht_node" url="{node68}" tilt="-5.95" description="" target=""/>
+      <hotspot pan="-191.77" id="Point11" title="Salão Visão 02" distance="140.173" skinid="ht_node" url="{node92}" tilt="-21.02" description="" target=""/>
+      <hotspot pan="-262.15" id="Point01" title="Hall de entrada" distance="133.235" skinid="ht_node" url="{node9}" tilt="-9.61" description="" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+      <lensflare pan="-162.740" blinding="50.000" tilt="0.140" id="Lensflare01" color="0xffffff" type="1" alpha="80.000"/>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node92">
+    <input width="1425" overlap="1" levelbias="0.400" height="1425" leveltilesize="510" leveltileurl="tiles/node92/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="1425" width="1425" predecode="0" preload="0"/>
+      <level height="712" width="712" predecode="0" preload="0"/>
+      <level height="356" width="356" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="105.624">
+      <start fov="102.39" pan="-92.54" projection="4" tilt="1.72"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="ProjetoSalodeFestasMinas1-CF6|Social|Floor1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:06" title="Salão Visão 02" altitude="890.10" source="" longitude="-43.94070468" latitude="-19.93572309" nodeid="node92" heading="105.624" description="" info="" comment="">
+      <mapcoords y="-0.361862" x="0.390015" x_floorplan_percent="22.2745" y_floorplan_percent="36.8017" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-71.51" id="Point02" title="Saída Lateral&#xa;&#xa;Operação e Serviços" distance3D="154.306" customimage="media/Sa�da Lateral.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-2.82" customimagewidth="27" description="" target="" customimageheight="37"/>
+      <hotspot pan="-91.84" id="Point03" title="Palco&#xa;Local para &#xa;Montagem" distance3D="165.736" customimage="media/�cone Inf. com haste M�dia.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-2.31" customimagewidth="29" description="" target="" customimageheight="41"/>
+      <hotspot pan="-113.21" id="Point04" title="Saída Lateral&#xa;&#xa;Operação e Serviços" distance3D="177.166" customimage="media/Sa�da Lateral.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-2.2" customimagewidth="31" description="" target="" customimageheight="43"/>
+      <hotspot pan="-116.83" id="Point05" title="Corredor ext. visão 02" distance="22.4116" skinid="ht_node" url="{node88}" tilt="-0.11" description="" target=""/>
+      <hotspot pan="-180.29" id="Point07" title="Corredor Externo" distance="14.9429" skinid="ht_node" url="{node90}" tilt="-1.15" description="" target=""/>
+      <hotspot pan="-207.59" id="Point08" title="Saída&#xa;&#xa;Convidados" distance3D="85.7254" customimage="media/Sa�da.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-2.14" customimagewidth="15" description="" target="" customimageheight="15"/>
+      <hotspot pan="-187" id="Point09" title="Salão Visão 03" distance="10.5855" skinid="ht_node" url="{node68}" tilt="-13.66" description="" target="-174.0/0.2/151.9"/>
+      <hotspot pan="-112.18" id="Point12" title="Salão Visão 06" distance="21.2755" skinid="ht_node" url="{node19}" tilt="-7.77" description="" target=""/>
+      <hotspot pan="-91.94" id="Point10" title="Salão Visão 05" distance="18.7001" skinid="ht_node" url="{node94}" tilt="-9.04" description="" target=""/>
+      <hotspot pan="-70.09" id="Point11" title="Salão Visão 04" distance="19.371" skinid="ht_node" url="{node96}" tilt="-8.86" description="" target=""/>
+      <hotspot pan="-355.52" id="Point01" title="Salão Principal" distance="140.173" skinid="ht_node" url="{node100}" tilt="-13.27" description="" target=""/>
+      <hotspot pan="-195.68" id="Point06" title="Elevador&#xa;Pessoas com&#xa;Mobilidade Reduzida" distance3D="125.731" customimage="media/Elevador haste G.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-7.19" customimagewidth="22" description="" target="" customimageheight="48"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+      <lensflare pan="-171.010" blinding="50.000" tilt="2.050" id="Lensflare01" color="0xffffff" type="1" alpha="80.000"/>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node68">
+    <input width="1520" overlap="1" levelbias="0.400" height="1520" leveltilesize="510" leveltileurl="tiles/node68/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="100.996">
+      <start fov="151.89" pan="-75.04" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Social|Floor1" copyright="Market3r" customnodeid="" datetime="23/12/2025 15:32" title="Salão Visão 03" altitude="883.70" source="" longitude="-43.94080270" latitude="-19.93569918" nodeid="node68" heading="100.996" description="" info="" comment="">
+      <mapcoords y="-0.649567" x="0.387268" x_floorplan_percent="22.1176" y_floorplan_percent="66.0615" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-100.75" id="Point03" title="Salão Visão 06" distance="18.5856" skinid="ht_node" url="{node19}" tilt="-12.6" description="" target="-149.2/0.8/100.0"/>
+      <hotspot pan="-75.55" id="Point06" title="Palco&#xa;Local para &#xa;Montagem" distance3D="154.306" customimage="media/�cone Inf. com haste M�dia.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-0.94" customimagewidth="27" description="" target="" customimageheight="36"/>
+      <hotspot pan="-97.15" id="Point09" title="Saída Lateral&#xa;&#xa;Operação e Serviços" distance3D="154.306" customimage="media/Sa�da Lateral.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-1.96" customimagewidth="27" description="" target="" customimageheight="36"/>
+      <hotspot pan="-56.26" id="Point10" title="Saída Lateral&#xa;&#xa;Operação e Serviços" distance3D="154.306" customimage="media/Sa�da Lateral.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-1.42" customimagewidth="27" description="" target="" customimageheight="38"/>
+      <hotspot pan="-269.1" id="Point11" title="Saída&#xa;&#xa;Convidados" distance3D="97.1554" customimage="media/Sa�da.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-3.35" customimagewidth="17" description="" target="" customimageheight="17"/>
+      <hotspot pan="-184.02" id="Point05" title="Corredor Externo" distance="4.37359" skinid="ht_node" url="{node90}" tilt="-6.33" description="" target=""/>
+      <hotspot pan="-54.51" id="Point01" title="Salão Visão 04" distance="24.2181" skinid="ht_node" url="{node96}" tilt="-10.62" description="" target=""/>
+      <hotspot pan="-78.29" id="Point02" title="Salão Visão 05" distance="19.9748" skinid="ht_node" url="{node94}" tilt="-12.55" description="" target=""/>
+      <hotspot pan="-356.64" id="Point04" title="Salão Visão 02" distance="10.5855" skinid="ht_node" url="{node92}" tilt="-22.49" description="" target="-4.7/0.2/102.4"/>
+      <hotspot pan="0.61" id="Point08" title="Salão Principal" distance="141.308" skinid="ht_node" url="{node100}" tilt="-7.03" description="" target=""/>
+      <hotspot pan="-222.82" id="Point07" title="Elevador&#xa;Pessoas com&#xa;Mobilidade Reduzida" distance3D="125.731" customimage="media/Elevador haste G.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-20.03" customimagewidth="22" description="" target="" customimageheight="48"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+      <lensflare pan="-154.150" blinding="50.000" tilt="5.110" id="Lensflare01" color="0xffffff" type="1" alpha="80.000"/>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node96">
+    <input width="1425" overlap="1" levelbias="0.400" height="1425" leveltilesize="510" leveltileurl="tiles/node96/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="1425" width="1425" predecode="0" preload="0"/>
+      <level height="712" width="712" predecode="0" preload="0"/>
+      <level height="356" width="356" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="102.367">
+      <start fov="126.58" pan="120.99" projection="4" tilt="-0.02"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="ProjetoSalodeFestasMinas1-CF6|Floor1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:15" title="Salão Visão 04" altitude="890.10" source="" longitude="-43.94070644" latitude="-19.93589729" nodeid="node96" heading="102.367" description="" info="" comment="">
+      <mapcoords y="-0.239639" x="0.900879" x_floorplan_percent="51.451" y_floorplan_percent="24.3715" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-230.09" id="Point01" title="Salão Visão 03" distance="24.2181" skinid="ht_node" url="{node68}" tilt="-5.86" description="" target=""/>
+      <hotspot pan="-247.3" id="Point02" title="Salão Visão 02" distance="19.371" skinid="ht_node" url="{node92}" tilt="-6.85" description="" target="23.3/-4.3/102.4"/>
+      <hotspot pan="-263.36" id="Point04" title="Hall de entrada" distance="25.4847" skinid="ht_node" url="{node9}" tilt="-0.83" description="" target=""/>
+      <hotspot pan="-224.44" id="Point05" title="Corredor Externo" distance="26.8654" skinid="ht_node" url="{node90}" tilt="-0.25" description="" target=""/>
+      <hotspot pan="-172.31" id="Point07" title="Salão Visão 06" distance="15.0458" skinid="ht_node" url="{node19}" tilt="-6.97" description="" target=""/>
+      <hotspot pan="-150.57" id="Point08" title="Palco" distance="9.38991" skinid="ht_node" url="{node20}" tilt="-11.91" description="" target=""/>
+      <hotspot pan="-146.59" id="Point09" title="Palco&#xa;&#xa;Local Montagem" distance3D="160.021" customimage="media/�cone Inf. com haste M�dia.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-5.65" customimagewidth="28" description="" target="" customimageheight="36"/>
+      <hotspot pan="-165.36" id="Point10" title="Saída Lateral&#xa;&#xa;Operação e Serviços" distance3D="182.881" customimage="media/Sa�da Lateral.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-3.68" customimagewidth="32" description="" target="" customimageheight="42"/>
+      <hotspot pan="-173.05" id="Point11" title="Corredor ext. visão 02" distance="19.6188" skinid="ht_node" url="{node88}" tilt="-0.43" description="" target=""/>
+      <hotspot pan="-227.58" id="Point12" title="Elevador&#xa;Pessoas com&#xa;Mobilidade Reduzida" distance3D="120.016" customimage="media/Elevador haste G.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-1.88" customimagewidth="21" description="" target="" customimageheight="43"/>
+      <hotspot pan="-232.48" id="Point13" title="Saída&#xa;&#xa;Convidados" distance3D="85.7254" customimage="media/Sa�da.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-0.6" customimagewidth="15" description="" target="" customimageheight="15"/>
+      <hotspot pan="-235.86" id="Point14" title="Saída&#xa;&#xa;Convidados" distance3D="85.7254" customimage="media/Sa�da.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-0.67" customimagewidth="15" description="" target="" customimageheight="15"/>
+      <hotspot pan="-267.56" id="Point15" title="Saída&#xa;&#xa;Convidados" distance3D="80.0104" customimage="media/Sa�da.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-1.16" customimagewidth="14" description="" target="" customimageheight="14"/>
+      <hotspot pan="-264.56" id="Point16" title="Saída&#xa;&#xa;Convidados" distance3D="85.7254" customimage="media/Sa�da.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-1.04" customimagewidth="15" description="" target="" customimageheight="15"/>
+      <hotspot pan="-166.86" id="Point17" title="Salão Visão 05" distance="7.65821" skinid="ht_node" url="{node94}" tilt="-26.91" description="" target=""/>
+      <hotspot pan="-65.19" id="Point06" title="Saída Op. Esq. Visão 01" distance="5.23757" skinid="ht_node" url="{node67}" tilt="-12.51" description="" target=""/>
+      <hotspot pan="-263.73" id="Point03" title="Salão Principal" distance="158.708" skinid="ht_node" url="{node100}" tilt="-7.01" description="" target=""/>
+      <hotspot pan="-57.14" id="Point18" title="Saída Lateral&#xa;&#xa;Operação e Serviços" distance3D="182.881" customimage="media/Sa�da Lateral.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-15.97" customimagewidth="32" description="" target="" customimageheight="42"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+      <lensflare pan="-191.150" blinding="50.000" tilt="0.600" id="Lensflare01" color="0xffffff" type="1" alpha="80.000"/>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node94">
+    <input width="1425" overlap="1" levelbias="0.400" height="1425" leveltilesize="510" leveltileurl="tiles/node94/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="1425" width="1425" predecode="0" preload="0"/>
+      <level height="712" width="712" predecode="0" preload="0"/>
+      <level height="356" width="356" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="105.054">
+      <start fov="148.12" pan="-90.84" projection="4" tilt="-0.65"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="ProjetoSalodeFestasMinas1-CF6|Floor1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:15" title="Salão Visão 05" altitude="890.10" source="" longitude="-43.94077649" latitude="-19.93587712" nodeid="node94" heading="105.054" description="" info="" comment="">
+      <mapcoords y="-0.447006" x="0.889893" x_floorplan_percent="50.8235" y_floorplan_percent="45.4609" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-0.360011" id="Point01" title="Salão Visão 04" distance="7.65821" skinid="ht_node" url="{node96}" tilt="-18.49" description="" target=""/>
+      <hotspot pan="-93.11" id="Point02" title="Palco" distance="6.39362" skinid="ht_node" url="{node20}" tilt="-32.99" description="" target=""/>
+      <hotspot pan="-65.29" id="Point03" title="Acesso Lateral&#xa;&#xa;Camarim 2" distance3D="125.731" customimage="media/Camarim com haste G.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-9.43" customimagewidth="22" description="" target="" customimageheight="51"/>
+      <hotspot pan="-88.31" id="Point04" title="Palco&#xa;Local Montagem" distance3D="171.451" customimage="media/�cone Inf. com haste M�dia.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-20.04" customimagewidth="30" description="" target="" customimageheight="42"/>
+      <hotspot pan="-115.9" id="Point05" title="Acesso Lateral&#xa;&#xa;Camarim 1" distance3D="125.731" customimage="media/Camarim com haste G.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-7.4" customimagewidth="22" description="" target="" customimageheight="51"/>
+      <hotspot pan="-161.16" id="Point06" title="Saída Lateral&#xa;&#xa;Operação e Serviços" distance3D="160.021" customimage="media/Sa�da Lateral.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-7.51" customimagewidth="28" description="" target="" customimageheight="42"/>
+      <hotspot pan="-172.11" id="Point07" title="Corredor ext. visão 02" distance="11.982" skinid="ht_node" url="{node88}" tilt="-0.86" description="" target=""/>
+      <hotspot pan="-239.64" id="Point08" title="Corredor Externo" distance="21.6321" skinid="ht_node" url="{node90}" tilt="-0.56" description="" target=""/>
+      <hotspot pan="-281.95" id="Point09" title="Hall de entrada" distance="26.7326" skinid="ht_node" url="{node9}" tilt="-1.25" description="" target=""/>
+      <hotspot pan="-267.6" id="Point11" title="Salão Visão 02" distance="18.7001" skinid="ht_node" url="{node92}" tilt="-7.79" description="" target=""/>
+      <hotspot pan="-247.9" id="Point12" title="Salão Visão 03" distance="19.9748" skinid="ht_node" url="{node68}" tilt="-6.69" description="" target=""/>
+      <hotspot pan="-247.63" id="Point13" title="Saída&#xa;&#xa;Convidados" distance3D="85.7254" customimage="media/Sa�da.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-0.58" customimagewidth="15" description="" target="" customimageheight="15"/>
+      <hotspot pan="-251.96" id="Point14" title="Saída&#xa;&#xa;Convidados" distance3D="85.7254" customimage="media/Sa�da.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-0.57" customimagewidth="15" description="" target="" customimageheight="15"/>
+      <hotspot pan="-286.21" id="Point15" title="Saída&#xa;&#xa;Convidados" distance3D="85.7254" customimage="media/Sa�da.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-1.44" customimagewidth="15" description="" target="" customimageheight="15"/>
+      <hotspot pan="-15.68" id="Point16" title="Saída Lateral&#xa;&#xa;Operação e Serviços" distance3D="165.736" customimage="media/Sa�da Lateral.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-6.41" customimagewidth="29" description="" target="" customimageheight="42"/>
+      <hotspot pan="-169.29" id="Point17" title="Salão Visão 06" distance="7.39424" skinid="ht_node" url="{node19}" tilt="-16.97" description="" target=""/>
+      <hotspot pan="-285.58" id="Point10" title="Salão Principal" distance="158.808" skinid="ht_node" url="{node100}" tilt="-7.5" description="" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+      <lensflare pan="-203.850" blinding="50.000" tilt="-2.030" id="Lensflare01" color="0xffffff" type="1" alpha="80.000"/>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="102.275">
+      <start fov="100" pan="57.18" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Social|Floor1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:16" title="Salão Visão 06" altitude="890.10" source="" longitude="-43.94084524" latitude="-19.93586147" nodeid="node19" heading="102.275" description="" info="" comment="">
+      <mapcoords y="-0.647507" x="0.890579" x_floorplan_percent="50.8627" y_floorplan_percent="65.852" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-125.53" id="Point04" title="Saída Op. Dir. Visão 02" distance="5.63748" skinid="ht_node" url="{node45}" tilt="-24.39" description="" target=""/>
+      <hotspot pan="-26.94" id="Point02" title="Palco&#xa;&#xa;Local Montagem" distance3D="154.306" customimage="media/�cone Inf. com haste M�dia.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-8.74" customimagewidth="27" description="" target="" customimageheight="37"/>
+      <hotspot pan="-272.72" id="Point03" title="Salão Visão 03" distance="18.5856" skinid="ht_node" url="{node68}" tilt="-6.93" description="" target="116.6/1.6/151.9"/>
+      <hotspot pan="-118.27" id="Point09" title="Saída Lateral&#xa;&#xa;Operação e Serviços" distance3D="228.601" customimage="media/Sa�da Lateral.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-17.1" customimagewidth="40" description="" target="" customimageheight="57"/>
+      <hotspot pan="-6.65" id="Point10" title="Saída Lateral&#xa;&#xa;Operação e Serviços" distance3D="160.021" customimage="media/Sa�da Lateral.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-3.55" customimagewidth="28" description="" target="" customimageheight="38"/>
+      <hotspot pan="-302.46" id="Point11" title="Saída&#xa;&#xa;Convidados" distance3D="85.7254" customimage="media/Sa�da.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-0.72" customimagewidth="15" description="" target="" customimageheight="15"/>
+      <hotspot pan="-305.91" id="Point12" title="Saída&#xa;&#xa;Convidados" distance3D="85.7254" customimage="media/Sa�da.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-0.76" customimagewidth="15" description="" target="" customimageheight="15"/>
+      <hotspot pan="-275.87" id="Point13" title="Saída&#xa;&#xa;Convidados" distance3D="85.7254" customimage="media/Sa�da.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-0.51" customimagewidth="15" description="" target="" customimageheight="15"/>
+      <hotspot pan="-271.38" id="Point14" title="Saída&#xa;&#xa;Convidados" distance3D="85.7254" customimage="media/Sa�da.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-0.45" customimagewidth="15" description="" target="" customimageheight="15"/>
+      <hotspot pan="-173.5" id="Point19" title="Acesso&#xa;&#xa;Lateral Externa" distance3D="188.596" customimage="media/cone Inf. com haste gde..png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-29.64" customimagewidth="33" description="" target="" customimageheight="56"/>
+      <hotspot pan="-22.24" id="Point15" title="Palco" distance="10.0449" skinid="ht_node" url="{node20}" tilt="-11.93" description="" target=""/>
+      <hotspot pan="-179.25" id="Point01" title="Corredor ext. visão 02" distance="4.81474" skinid="ht_node" url="{node88}" tilt="-7.76" description="" target=""/>
+      <hotspot pan="-4.74" id="Point05" title="Salão Visão 05" distance="7.39424" skinid="ht_node" url="{node94}" tilt="-14.96" description="" target=""/>
+      <hotspot pan="-2.91001" id="Point06" title="Salão Visão 04" distance="15.0458" skinid="ht_node" url="{node96}" tilt="-6.92" description="" target=""/>
+      <hotspot pan="-293.51" id="Point07" title="Salão Visão 02" distance="21.2755" skinid="ht_node" url="{node92}" tilt="-7.13" description="" target=""/>
+      <hotspot pan="-308.36" id="Point08" title="Salão Principal" distance="159.691" skinid="ht_node" url="{node100}" tilt="-6.29" description="" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+      <lensflare pan="-199.840" blinding="50.000" tilt="0.590" id="Lensflare01" color="0xffffff" type="1" alpha="80.000"/>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="100.482">
+      <start fov="148.12" pan="83.3" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Floor1|Palco" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:16" title="Palco" altitude="890.10" source="" longitude="-43.94078750" latitude="-19.93593368" nodeid="node20" heading="100.482" description="" info="" comment="">
+      <mapcoords y="-0.436707" x="1.06293" x_floorplan_percent="60.7059" y_floorplan_percent="44.4134" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-34.29" id="Point02" title="Acesso Camarim e Lateral" distance="6.0873" skinid="ht_node" url="{node57}" tilt="-5.39" description="" target="-132.1/-4.5/141.2"/>
+      <hotspot pan="-157.19" id="Point03" title="Acesso Operação" distance="6.83471" skinid="ht_node" url="{node49}" tilt="-5.72" description="" target=""/>
+      <hotspot pan="-96.36" id="Point04" title="Palco&#xa;&#xa;Local Montagem" distance3D="182.881" customimage="media/�cone Inf. com haste M�dia.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-41.55" customimagewidth="32" description="" target="" customimageheight="46"/>
+      <hotspot pan="-255.19" id="Point09" title="Salão Visão 03" distance="26.1236" skinid="ht_node" url="{node68}" tilt="-7.21" description="" target="113.0/3.7/151.9"/>
+      <hotspot pan="-253.83" id="Point10" title="Acesso&#xa;&#xa;Área Externa" distance3D="142.876" customimage="media/�cone Inf. com haste M�dia.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-3.8" customimagewidth="25" description="" target="" customimageheight="35"/>
+      <hotspot pan="-152.76" id="Point12" title="Acesso Lateral&#xa;&#xa;Camarim 1" distance3D="148.591" customimage="media/Camarim com haste G.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-18.63" customimagewidth="26" description="" target="" customimageheight="56"/>
+      <hotspot pan="-211.58" id="Point06" title="Salão Visão 06" distance="10.0449" skinid="ht_node" url="{node19}" tilt="-11.95" description="" target=""/>
+      <hotspot pan="-276.18" id="Point01" title="Salão Visão 02" distance="24.9656" skinid="ht_node" url="{node92}" tilt="-7.64" description="" target=""/>
+      <hotspot pan="-292.6" id="Point05" title="Salão Principal" distance="165.129" skinid="ht_node" url="{node100}" tilt="-7.41" description="" target=""/>
+      <hotspot pan="-334.56" id="Point07" title="Salão Visão 04" distance="9.38991" skinid="ht_node" url="{node96}" tilt="-17.49" description="" target=""/>
+      <hotspot pan="-267.85" id="Point08" title="Salão Visão 05" distance="6.39362" skinid="ht_node" url="{node94}" tilt="-40.17" description="" target=""/>
+      <hotspot pan="-37.05" id="Point11" title="Acesso Lateral&#xa;&#xa;Camarim 2" distance3D="148.591" customimage="media/Camarim com haste G.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-21.28" customimagewidth="26" description="" target="" customimageheight="56"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+      <lensflare pan="-228.820" blinding="50.000" tilt="1.270" id="Lensflare01" color="0xffffff" type="1" alpha="80.000"/>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node90">
+    <input width="1425" overlap="1" levelbias="0.400" height="1425" leveltilesize="510" leveltileurl="tiles/node90/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="1425" width="1425" predecode="0" preload="0"/>
+      <level height="712" width="712" predecode="0" preload="0"/>
+      <level height="356" width="356" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="195.657">
+      <start fov="151.89" pan="1.04" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="AcessoToilettes1|All|Floor1" copyright="Market3r" customnodeid="" datetime="08/01/2026 11:19" title="Corredor Externo" altitude="904.50" source="" longitude="-43.94084406" latitude="-19.93569324" nodeid="node90" heading="195.657" description="" info="" comment="">
+      <mapcoords y="-0.76767" x="0.397568" x_floorplan_percent="22.7059" y_floorplan_percent="78.0726" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-234.11" id="Point02" title="Salão Visão 03" distance="4.37359" skinid="ht_node" url="{node68}" tilt="-11.27" description="" target="-64.1/-0.1/151.9"/>
+      <hotspot pan="-191.7" id="Point03" title="Elevador&#xa;Pessoas com&#xa;Mobilidade Reduzida" distance3D="80.0104" customimage="media/Elevador - seta cima baixo 2.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="7.4" customimagewidth="14" description="" target="" customimageheight="14"/>
+      <hotspot pan="-358.4" id="Point01" title="Corredor ext. visão 02" distance="16.3567" skinid="ht_node" url="{node88}" tilt="-8.98" description="" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node88">
+    <input width="1425" overlap="1" levelbias="0.400" height="1425" leveltilesize="510" leveltileurl="tiles/node88/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="1425" width="1425" predecode="0" preload="0"/>
+      <level height="712" width="712" predecode="0" preload="0"/>
+      <level height="356" width="356" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="178.838">
+      <start fov="94.69" pan="-14.36" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="AcessoToilettes1|All|Floor1" copyright="Market3r" customnodeid="" datetime="08/01/2026 11:17" title="Corredor ext. visão 02" altitude="902.70" source="" longitude="-43.94088238" latitude="-19.93583586" nodeid="node88" heading="178.838" description="" info="" comment="">
+      <mapcoords y="-0.768356" x="0.841141" x_floorplan_percent="48.0392" y_floorplan_percent="78.1425" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-14.5" id="Point01" title="Corredor ext. visão 03" distance="21.9828" skinid="ht_node" url="{node24}" tilt="-3.57" description="" target=""/>
+      <hotspot pan="-194.65" id="Point02" title="Corredor Externo" distance="16.3567" skinid="ht_node" url="{node90}" tilt="-10.95" description="" target="128.4/2.1/151.9"/>
+      <hotspot pan="-196.89" id="Point03" title="Elevador&#xa;Pessoas com&#xa;Mobilidade Reduzida" distance3D="80.0104" customimage="media/Elevador - seta cima baixo 2.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="1.81" customimagewidth="14" description="" target="" customimageheight="14"/>
+      <hotspot pan="-356.24" id="Point04" title="Salão Visão 06" distance="4.81474" skinid="ht_node" url="{node19}" tilt="-3.53" description="" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="102.431">
+      <start fov="151.89" pan="42.93" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="AcessoToilettes1|All|Floor1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:21" title="Corredor ext. visão 03" altitude="931.20" source="" longitude="-43.94092996" latitude="-19.93602843" nodeid="node24" heading="102.431" description="" info="" comment="">
+      <mapcoords y="-0.75943" x="1.43715" x_floorplan_percent="82.0784" y_floorplan_percent="77.2346" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="-3.5" tilt="-20.65" url="{node26}" description="" id="Point02" title="Entrada WC - 1st floor" target="-40.7/0.4/151.9"/>
+      <hotspot pan="-346.75" id="Point03" title="Acesso Doca&#xa;&#xa;Carga e Descarga" distance3D="154.306" customimage="media/�cone Inf. com haste M�dia.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-22.94" customimagewidth="27" description="" target="" customimageheight="39"/>
+      <hotspot pan="-4.55" id="Point05" title="Doca Carga e Descarga" distance="5.60875" skinid="ht_node" url="{node36}" tilt="-5.37" description="" target=""/>
+      <hotspot pan="-267.17" id="Point01" title="Corredor ext. visão 02" distance="21.9828" skinid="ht_node" url="{node88}" tilt="-7.22" description="" target="161.4/-0.5/94.7"/>
+      <hotspot pan="-268.92" id="Point04" title="Elevador&#xa;Pessoas com&#xa;Mobilidade Reduzida" distance3D="120.016" customimage="media/Elevador haste G.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-2.08" customimagewidth="21" description="" target="" customimageheight="47"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="151.89" pan="-82.44" projection="4" tilt="4.42"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="AcessoToilettes1|All" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:22" title="Entrada WC - 1st floor" altitude="931.20" source="" longitude="" latitude="" nodeid="node26" heading="0" description="" info="" comment=""/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="-179.97" tilt="-19.35" url="{node24}" description="" id="Point01" title="Corredor ext. visão 03" target=""/>
+      <hotspot pan="-113.34" id="Point03" title="WC Feminino&#xa;&#xa;Coletivo" distance3D="91.4404" customimage="media/WC Feminino.png" use3D="0" fov="10" skinid="ht_url" url="" tilt="0.33" customimagewidth="16" description="" target="_blank" customimageheight="16"/>
+      <hotspot pan="-49.74" id="Point04" title="WC Masculino&#xa;&#xa;Coletivo" distance3D="91.4404" customimage="media/WC Masculino.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="1.39" customimagewidth="16" description="" target="" customimageheight="16"/>
+      <hotspot pan="-310.67" id="Point05" title="WC Convidados&#xa;&#xa;Acessível" distance3D="102.87" customimage="media/Banheiro acess�vel.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-2.24" customimagewidth="18" description="" target="" customimageheight="18"/>
+      <hotspot pan="-4.91" id="Point06" title="Acesso Doca&#xa;&#xa;Carga e Descarga" distance3D="177.166" customimage="media/�cone Inf. com haste gde..png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-46.31" customimagewidth="31" description="" target="" customimageheight="59"/>
+      <hotspot skinid="ht_node" pan="-6.46" tilt="-10.82" url="{node36}" description="" id="Point07" title="Doca Carga e Descarga" target=""/>
+      <hotspot skinid="ht_node" pan="-314.86" tilt="-11.93" url="{node33}" description="" id="Point08" title="WC Acessibilidade" target=""/>
+      <hotspot skinid="ht_node" pan="-112.58" tilt="-8.11" url="{node28}" description="" id="Point09" title="WC Feminino visão 01" target=""/>
+      <hotspot skinid="ht_node" pan="-50.65" tilt="-7.7" url="{node31}" description="" id="Point10" title="WC Masculino - 1st floor" target="3.6/-0.0/151.9"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node33">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="151.89" pan="38.6" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Floor1|ToiletteAcessível" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:29" title="WC Acessibilidade" altitude="931.20" source="" longitude="" latitude="" nodeid="node33" heading="0" description="" info="" comment=""/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="-46.48" tilt="-14.55" url="{node26}" description="" id="Point01" title="Entrada WC - 1st floor" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="152.7" pan="-68.17" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Toilette1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:23" title="WC Feminino visão 01" altitude="931.20" source="" longitude="" latitude="" nodeid="node28" heading="0" description="" info="" comment=""/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="-65.79" tilt="-22.85" url="{node29}" description="" id="Point02" title="WC Feminino - 1st floor" target=""/>
+      <hotspot skinid="ht_node" pan="-344.41" tilt="-29.43" url="{node26}" description="" id="Point01" title="Entrada WC - 1st floor" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="152.7" pan="15.73" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Floor1|Toilette1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:24" title="WC Feminino - 1st floor" altitude="931.20" source="" longitude="" latitude="" nodeid="node29" heading="0" description="" info="" comment=""/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="-253.23" tilt="-25.78" url="{node28}" description="" id="Point01" title="WC Feminino visão 01" target=""/>
+      <hotspot skinid="ht_node" pan="-198.67" tilt="-19.22" url="{node16}" description="" id="Point02" title="WC Feminino visão 03" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="152.7" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Toilette1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:25" title="WC Feminino visão 03" altitude="931.20" source="" longitude="" latitude="" nodeid="node16" heading="0" description="" info="" comment=""/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="-16.19" tilt="-20.57" url="{node29}" description="" id="Point01" title="WC Feminino - 1st floor" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node31">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="151.89" pan="81.48" projection="4" tilt="-2.8"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Floor1|Toilette2" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:27" title="WC Masculino - 1st floor" altitude="931.20" source="" longitude="" latitude="" nodeid="node31" heading="0" description="" info="" comment=""/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="-267.39" tilt="-28.16" url="{node26}" description="" id="Point01" title="Entrada WC - 1st floor" target="123.1/0.4/151.9"/>
+      <hotspot skinid="ht_node" pan="-354.5" tilt="-35.5" url="{node32}" description="" id="Point02" title="WC Masculino Visão 02" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node32">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="152.7" pan="134.9" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Toilette2" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:27" title="WC Masculino Visão 02" altitude="931.20" source="" longitude="" latitude="" nodeid="node32" heading="0" description="" info="" comment=""/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="-181.23" tilt="-25.07" url="{node31}" description="" id="Point01" title="WC Masculino - 1st floor" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node36">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="102.202">
+      <start fov="136.93" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Doca|Floor1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:33" title="Doca Carga e Descarga" altitude="931.20" source="" longitude="-43.94087978" latitude="-19.93604629" nodeid="node36" heading="102.202" description="" info="" comment="">
+      <mapcoords y="-0.608368" x="1.455" x_floorplan_percent="83.098" y_floorplan_percent="61.8715" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-356.63" id="Point01" title="Doca Visão 02" distance="5.9899" skinid="ht_node" url="{node35}" tilt="-2.57" description="" target=""/>
+      <hotspot pan="-300.54" id="Point02" title="Acesso Coz.e Doca" distance="4.32378" skinid="ht_node" url="{node37}" tilt="-13.62" description="" target=""/>
+      <hotspot pan="-151.35" id="Point03" title="WC Feminino&#xa;&#xa;Coletivo" distance3D="102.87" customimage="media/WC Feminino.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="4.97" customimagewidth="18" description="" target="" customimageheight="18"/>
+      <hotspot skinid="ht_node" pan="-184.63" tilt="-56.58" url="{node26}" description="" id="Point04" title="Entrada WC - 1st floor" target="-169.4/2.3/151.9"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node35">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="103.505">
+      <start fov="152.7" pan="0.72" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Doca|Floor1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:31" title="Doca Visão 02" altitude="931.20" source="" longitude="-43.94082337" latitude="-19.93605576" nodeid="node35" heading="103.505" description="" info="" comment="">
+      <mapcoords y="-0.44632" x="1.44402" x_floorplan_percent="82.4706" y_floorplan_percent="45.3911" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-172.45" id="Point01" title="Doca Carga e Descarga" distance="5.9899" skinid="ht_node" url="{node36}" tilt="0.8" description="" target="169.1/0.2/136.9"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="76.2677">
+      <start fov="152.7" pan="-38.15" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="AcessoCamarinsCozinhaDoca|All|Floor1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:38" title="Acesso Op. Visão 01" altitude="931.20" source="" longitude="-43.94087244" latitude="-19.93595461" nodeid="node30" heading="76.2677" description="" info="" comment="">
+      <mapcoords y="-0.65506" x="1.1824" x_floorplan_percent="67.5294" y_floorplan_percent="66.6201" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-266.32" id="Point01" title="Saída Op. Dir. Visão 01" distance="4.3059" skinid="ht_node" url="{node44}" tilt="-7.66" description="" target=""/>
+      <hotspot pan="-0.37" id="Point03" title="Acesso Operação" distance="2.78568" skinid="ht_node" url="{node49}" tilt="-25.91" description="" target="-54.4/-7.0/152.7"/>
+      <hotspot pan="-269.83" id="Point02" title="Saída Lateral&#xa;&#xa;Operação e Serviços" distance3D="142.876" customimage="media/�cone Inf. com haste M�dia.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-28.21" customimagewidth="25" description="" target="" customimageheight="35"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node49">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="152.7" pan="-59.83" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="AcessoCamarinsCozinhaDoca|All|Floor1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:43" title="Acesso Operação" altitude="883.70" source="" longitude="-43.94084647" latitude="-19.93596023" nodeid="node49" heading="0" description="" info="" comment="">
+      <mapcoords y="-0.579529" x="1.18103" x_floorplan_percent="67.451" y_floorplan_percent="58.9385" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-252.55" id="Point02" title="Camarim 1" distance="4.17648" skinid="ht_node" url="{node51}" tilt="-6.95" description="" target=""/>
+      <hotspot pan="-187.16" id="Point01" title="Acesso Op. Visão 01" distance="2.78568" skinid="ht_node" url="{node30}" tilt="-12.05" description="" target="84.6/-1.5/152.7"/>
+      <hotspot pan="-105.2" id="Point03" title="Corredor da Cozinha" distance="2.75049" skinid="ht_node" url="{node40}" tilt="-19.99" description="" target=""/>
+      <hotspot pan="-355.75" id="Point04" title="Acesso Camarim e Lateral" distance="9.52091" skinid="ht_node" url="{node57}" tilt="-9.82" description="" target="58.3/0.3/141.2"/>
+      <hotspot pan="-282.42" id="Point05" title="Palco" distance="6.83471" skinid="ht_node" url="{node20}" tilt="-6.36" description="" target=""/>
+      <hotspot pan="-331.74" id="Point06" title="Gerador&#xa;&#xa;de Energia" distance3D="97.1554" customimage="media/Gerador.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-3.09" customimagewidth="17" description="" target="" customimageheight="17"/>
+      <hotspot pan="-117.02" id="Point07" title="Acesso&#xa;&#xa;Cozinhas e Doca" distance3D="171.451" customimage="media/cone Inf. com haste gde..png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-29.45" customimagewidth="30" description="" target="" customimageheight="52"/>
+      <hotspot pan="-254.26" id="Point08" title="Acesso&#xa;&#xa;Camarim 1" distance3D="154.306" customimage="media/Camarim com haste G.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-28" customimagewidth="27" description="" target="" customimageheight="56"/>
+      <hotspot pan="-276.89" id="Point09" title="Acesso Lateral&#xa;&#xa;Palco" distance3D="182.881" customimage="media/�cone Inf. com haste gde..png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-31.81" customimagewidth="32" description="" target="" customimageheight="60"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node40">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="108.489">
+      <start fov="152.7" pan="-85.72" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="AcessoCamarinsCozinhaDoca|All|Floor1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:37" title="Corredor da Cozinha" altitude="931.20" source="" longitude="-43.94085831" latitude="-19.93598232" nodeid="node40" heading="108.489" description="" info="" comment="">
+      <mapcoords y="-0.595322" x="1.25313" x_floorplan_percent="71.5686" y_floorplan_percent="60.5447" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-263.58" id="Point01" title="Acesso Operação" distance="2.75049" skinid="ht_node" url="{node49}" tilt="-26.16" description="" target="97.6/1.4/152.7"/>
+      <hotspot pan="-82.66" id="Point03" title="Acesso Coz.e Doca" distance="3.14052" skinid="ht_node" url="{node37}" tilt="-31.68" description="" target="-130.3/0.4/152.7"/>
+      <hotspot pan="-85.71" id="Point02" title="Acesso Doca&#xa;&#xa;Carga e Descarga" distance3D="142.876" customimage="media/�cone Inf. com haste M�dia.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-19.21" customimagewidth="25" description="" target="" customimageheight="35"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node37">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="106.25">
+      <start fov="152.7" pan="156.29" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="AcessoCamarinsCozinhaDoca|All|Floor1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:35" title="Acesso Coz.e Doca" altitude="931.20" source="" longitude="-43.94086605" latitude="-19.93600961" nodeid="node37" heading="106.25" description="" info="" comment="">
+      <mapcoords y="-0.596695" x="1.33827" x_floorplan_percent="76.4314" y_floorplan_percent="60.6844" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-197.59" id="Point01" title="Cozinha 2" distance="3.83281" skinid="ht_node" url="{node39}" tilt="-29.23" description="" target="110.3/-5.6/152.7"/>
+      <hotspot pan="-268.01" id="Point02" title="Corredor da Cozinha" distance="3.14052" skinid="ht_node" url="{node40}" tilt="-27.09" description="" target="106.1/4.9/152.7"/>
+      <hotspot pan="-85.62" id="Point03" title="Doca Carga e Descarga" distance="4.32378" skinid="ht_node" url="{node36}" tilt="-12.51" description="" target=""/>
+      <hotspot pan="-334.3" id="Point04" title="Cozinha 1" distance="3.98176" skinid="ht_node" url="{node47}" tilt="-24.9" description="" target=""/>
+      <hotspot pan="-81" id="Point05" title="Acesso Doca&#xa;&#xa;Carga e Descarga" distance3D="142.876" customimage="media/�cone Inf. com haste M�dia.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-41.27" customimagewidth="25" description="" target="" customimageheight="35"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node47">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="101.012">
+      <start fov="152.7" pan="3" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Cozinha1|Floor1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:41" title="Cozinha 1" altitude="883.70" source="" longitude="-43.94083470" latitude="-19.93598927" nodeid="node47" heading="101.012" description="" info="" comment="">
+      <mapcoords y="-0.52597" x="1.25793" x_floorplan_percent="71.8431" y_floorplan_percent="53.4916" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="-47.87" tilt="-28.62" url="{node48}" description="" id="Point01" title="Cozinha 1 - Visão 02" target=""/>
+      <hotspot pan="-112.38" id="Point02" title="Acesso Coz.e Doca" distance="3.98176" skinid="ht_node" url="{node37}" tilt="-27.06" description="" target=""/>
+      <hotspot pan="-350.73" id="Point03" title="Tinas para&#xa;&#xa;Gelar Bebidas" distance3D="85.7254" customimage="media/Gelar.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-8.85" customimagewidth="15" description="" target="" customimageheight="15"/>
+      <hotspot pan="-24.09" id="Point04" title="Tina para&#xa;&#xa;Gelar Bebidas&#xa;" distance3D="85.7254" customimage="media/Gelar.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-8.68" customimagewidth="15" description="" target="" customimageheight="15"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node48">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="152.7" pan="114.99" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Cozinha1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:42" title="Cozinha 1 - Visão 02" altitude="883.70" source="" longitude="" latitude="" nodeid="node48" heading="0" description="" info="" comment=""/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="-255.05" tilt="-23.38" url="{node47}" description="" id="Point01" title="Cozinha 1" target=""/>
+      <hotspot pan="-25.4" id="Point02" title="Tinas para&#xa;&#xa;Gelar Bebidas" distance3D="91.4404" customimage="media/Gelar.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-21.25" customimagewidth="16" description="" target="" customimageheight="16"/>
+      <hotspot pan="-306.92" id="Point03" title="Tinas para&#xa;&#xa;Gelar Bebidas&#xa;" distance3D="102.87" customimage="media/Gelar.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-23.99" customimagewidth="18" description="" target="" customimageheight="18"/>
+      <hotspot pan="-283.74" id="Point04" title="Tinas para&#xa;&#xa;Gelar Bebidas&#xa;" distance3D="102.87" customimage="media/Gelar.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-7.68" customimagewidth="18" description="" target="" customimageheight="18"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node39">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="94.7904">
+      <start fov="152.7" pan="-33.1" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Cozinha2|Floor1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:36" title="Cozinha 2" altitude="931.20" source="" longitude="-43.94088405" latitude="-19.93597958" nodeid="node39" heading="94.7904" description="" info="" comment="">
+      <mapcoords y="-0.668106" x="1.26343" x_floorplan_percent="72.1569" y_floorplan_percent="67.9469" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-72.68" id="Point01" title="Acesso Coz.e Doca" distance="3.83281" skinid="ht_node" url="{node37}" tilt="-8.06" description="" target=""/>
+      <hotspot pan="-97.2" id="Point02" title="2 Pontos de Energia&#xa;&#xa;127V - 220V" distance3D="102.87" customimage="media/Energia-1.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-0.26" customimagewidth="18" description="" target="" customimageheight="18"/>
+      <hotspot pan="-115.93" id="Point03" title="2 Pontos de Energia&#xa;&#xa;127V - 220V" distance3D="102.87" customimage="media/Energia-1.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-0.14" customimagewidth="18" description="" target="" customimageheight="18"/>
+      <hotspot pan="-136.53" id="Point04" title="Ponto de Energia&#xa;&#xa;127V" distance3D="102.87" customimage="media/Energia-1.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-1.86" customimagewidth="18" description="" target="" customimageheight="18"/>
+      <hotspot pan="-163.86" id="Point05" title="2 Pontos de Energia&#xa;&#xa;127V" distance3D="102.87" customimage="media/Energia-1.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-18.06" customimagewidth="18" description="" target="" customimageheight="18"/>
+      <hotspot pan="-197.58" id="Point06" title="2 Pontos de Energia&#xa;&#xa;127V" distance3D="102.87" customimage="media/Energia-1.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-18.72" customimagewidth="18" description="" target="" customimageheight="18"/>
+      <hotspot pan="-320.1" id="Point07" title="Ponto de Energia&#xa;&#xa;127V" distance3D="102.87" customimage="media/Energia-1.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-3.91" customimagewidth="18" description="" target="" customimageheight="18"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node44">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="109.625">
+      <start fov="152.7" pan="-144.44" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Saidaop|Floor1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:39" title="Saída Op. Dir. Visão 01" altitude="931.20" source="" longitude="-43.94086294" latitude="-19.93591693" nodeid="node44" heading="109.625" description="" info="" comment="">
+      <mapcoords y="-0.655746" x="1.06499" x_floorplan_percent="60.8235" y_floorplan_percent="66.6899" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-89.61" id="Point01" title="Acesso Op. Visão 01" distance="4.3059" skinid="ht_node" url="{node30}" tilt="-16.14" description="" target=""/>
+      <hotspot pan="-186.88" id="Point02" title="Saída Op. Dir. Visão 02" distance="1.77198" skinid="ht_node" url="{node45}" tilt="-35.06" description="" target=""/>
+      <hotspot pan="-77.72" id="Point03" title="Acesso Cozinhas &#xa;&#xa;e Camarins" distance3D="171.451" customimage="media/�cone Inf. com haste M�dia.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-48.3" customimagewidth="30" description="" target="" customimageheight="43"/>
+      <hotspot pan="-179.8" id="Point04" title="Acesso Salões&#xa;&#xa;e Mezanino" distance3D="171.451" customimage="media/�cone Inf. com haste gde.-1.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-51.84" customimagewidth="30" description="" target="" customimageheight="55"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node45">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="95.7433">
+      <start fov="152.7" pan="25.99" projection="4" tilt="-9.13"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Saidaop|Floor1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:40" title="Saída Op. Dir. Visão 02" altitude="931.20" source="" longitude="-43.94087364" latitude="-19.93590457" nodeid="node45" heading="95.7433" description="" info="" comment="">
+      <mapcoords y="-0.694199" x="1.03615" x_floorplan_percent="59.1765" y_floorplan_percent="70.6006" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-16.51" id="Point01" title="Saída Op. Dir. Visão 01" distance="1.77198" skinid="ht_node" url="{node44}" tilt="-30.77" description="" target=""/>
+      <hotspot pan="-287.66" id="Point02" title="Salão Visão 06" distance="5.63748" skinid="ht_node" url="{node19}" tilt="-12.84" description="" target=""/>
+      <hotspot pan="-358.19" id="Point03" title="Acesso Cozinhas&#xa;&#xa;e Camarins" distance3D="177.166" customimage="media/�cone Inf. com haste gde.-1.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-47.21" customimagewidth="31" description="" target="" customimageheight="55"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node67">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node67/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="96.5885">
+      <start fov="152.7" pan="-108.97" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Saidaop|Floor1" copyright="Market3r" customnodeid="" datetime="23/12/2025 15:02" title="Saída Op. Esq. Visão 01" altitude="883.70" source="" longitude="-43.94070241" latitude="-19.93594424" nodeid="node67" heading="96.5885" description="" info="" comment="">
+      <mapcoords y="-0.194321" x="1.03546" x_floorplan_percent="59.1373" y_floorplan_percent="19.7626" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-141.71" id="Point02" title="Saída Lateral&#xa;&#xa;Operação e Serviços" distance3D="182.881" customimage="media/�cone Inf. com haste gde.-1.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-35.76" customimagewidth="32" description="" target="" customimageheight="55"/>
+      <hotspot pan="-135.88" id="Point03" title="Acesso Camarim e Lateral" distance="7.10777" skinid="ht_node" url="{node57}" tilt="-4.07" description="" target=""/>
+      <hotspot pan="-265.4" id="Point01" title="Salão Visão 04" distance="5.23757" skinid="ht_node" url="{node96}" tilt="-30.89" description="" target="121.0/-1.7/126.6"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node51">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node51/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="101.053">
+      <start fov="152.7" pan="83.79" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Camarim1|Floor1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:44" title="Camarim 1" altitude="883.70" source="" longitude="-43.94084649" latitude="-19.93592267" nodeid="node51" heading="101.053" description="" info="" comment="">
+      <mapcoords y="-0.606995" x="1.07048" x_floorplan_percent="61.1373" y_floorplan_percent="61.7318" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-94.91" id="Point01" title="Acesso Operação" distance="4.17648" skinid="ht_node" url="{node49}" tilt="-17.03" description="" target=""/>
+      <hotspot skinid="ht_node" pan="-140.37" tilt="-19.3" url="{node53}" description="" id="Point02" title="WC Camarim 1" target=""/>
+      <hotspot pan="-230.24" id="Point03" title="2 Pontos de Energia&#xa;&#xa;127V" distance3D="102.87" customimage="media/Energia-1.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-4.94" customimagewidth="18" description="" target="" customimageheight="18"/>
+      <hotspot pan="-164.98" id="Point04" title="WC do Camarim&#xa;&#xa;Unissex" distance3D="91.4404" customimage="media/WC Unissex.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="2.05" customimagewidth="16" description="" target="" customimageheight="16"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node53">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node53/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="152.7" pan="-45.17" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Camarim1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:45" title="WC Camarim 1" altitude="883.70" source="" longitude="" latitude="" nodeid="node53" heading="0" description="" info="" comment=""/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="-275.65" tilt="-22.22" url="{node51}" description="" id="Point01" title="Camarim 1" target="39.0/-1.3/152.7"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node57">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node57/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="107.386">
+      <start fov="141.16" pan="3.95" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="AcessoCamarinsCozinhaDoca|All|Floor1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:48" title="Acesso Camarim e Lateral" altitude="883.70" source="" longitude="-43.94075809" latitude="-19.93598093" nodeid="node57" heading="107.386" description="" info="" comment="">
+      <mapcoords y="-0.32135" x="1.18034" x_floorplan_percent="67.4118" y_floorplan_percent="32.6816" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-177.59" id="Point01" title="Acesso Operação" distance="9.52091" skinid="ht_node" url="{node49}" tilt="-11.99" description="" target="178.6/0.1/152.7"/>
+      <hotspot pan="-269.97" id="Point02" title="Camarim 2" distance="4.42158" skinid="ht_node" url="{node61}" tilt="-10.2" description="" target="109.0/-0.8/152.7"/>
+      <hotspot pan="-247.07" id="Point03" title="Palco" distance="6.0873" skinid="ht_node" url="{node20}" tilt="-13.93" description="" target=""/>
+      <hotspot pan="-358.38" id="Point04" title="WC Serviços&#xa;&#xa;Acessibilidade" distance3D="373.045" customimage="media/Banheiro acess�vel.png" use3D="0" fov="2.1499999999999999" skinid="ht_info" url="" tilt="-0.24" customimagewidth="14" description="" target="" customimageheight="14"/>
+      <hotspot pan="-267.58" id="Point05" title="Acesso&#xa;&#xa;Camarim 2" distance3D="125.731" customimage="media/Camarim com haste G.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-26.52" customimagewidth="22" description="" target="" customimageheight="50"/>
+      <hotspot pan="-250.74" id="Point06" title="Acesso Lateral&#xa;&#xa;Palco" distance3D="165.736" customimage="media/�cone Inf. com haste gde.-1.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-30.66" customimagewidth="29" description="" target="" customimageheight="52"/>
+      <hotspot pan="-337.73" id="Point07" title="Saída Op. Esq. Visão 01" distance="7.10777" skinid="ht_node" url="{node67}" tilt="-12.06" description="" target="91.7/0.3/152.7"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node61">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node61/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="107.864">
+      <start fov="152.7" pan="-176.86" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Camarim2|Floor1" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:51" title="Camarim 2" altitude="883.70" source="" longitude="-43.94073438" latitude="-19.93594800" nodeid="node61" heading="107.864" description="" info="" comment="">
+      <mapcoords y="-0.280151" x="1.06773" x_floorplan_percent="60.9804" y_floorplan_percent="28.4916" mapid="FloorPlan01"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="-93.35" tilt="-21.66" url="{node64}" description="" id="Point02" title="WC Camarim 2" target="-133.4/-8.5/152.7"/>
+      <hotspot pan="-183.54" id="Point01" title="2 Pontos de Energia&#xa;&#xa;127V" distance3D="102.87" customimage="media/Energia-1.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-0.84" customimagewidth="18" description="" target="" customimageheight="18"/>
+      <hotspot pan="-276.71" id="Point03" title="2 Pontos de Energia&#xa;&#xa;127V" distance3D="102.87" customimage="media/Energia-1.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-16.22" customimagewidth="18" description="" target="" customimageheight="18"/>
+      <hotspot pan="-86.57" id="Point04" title="WC Camarim&#xa;&#xa;Unissex" distance3D="102.87" customimage="media/WC Unissex.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-6.83" customimagewidth="18" description="" target="" customimageheight="18"/>
+      <hotspot pan="-150.58" id="Point05" title="Acesso Camarim e Lateral" distance="4.42158" skinid="ht_node" url="{node57}" tilt="-10.42" description="" target="-131.0/0.3/141.2"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node64">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node64/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="152.7" pan="-91.75" projection="4" tilt="1.16"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Camarim2" copyright="Market3r" customnodeid="" datetime="23/12/2025 14:53" title="WC Camarim 2" altitude="883.70" source="" longitude="" latitude="" nodeid="node64" heading="0" description="" info="" comment=""/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="-267.44" tilt="-21.5" url="{node61}" description="" id="Point01" title="Camarim 2" target="162.9/1.9/152.7"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node42">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="103.232">
+      <start fov="151.89" pan="-55.93" projection="4" tilt="-1.08"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Floor2|Mezanino" copyright="Market3r" customnodeid="" datetime="23/12/2025 15:06" title="Mezanino Visão 01" altitude="883.70" source="" longitude="-43.94077727" latitude="-19.93569053" nodeid="node42" heading="103.232" description="" info="" comment="">
+      <mapcoords y="-0.557556" x="0.32753" x_floorplan_percent="18.7059" y_floorplan_percent="56.7039" mapid="FloorPlan02"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-167.43" id="Point02" title="Mezanino Visão 02" distance="3.86262" skinid="ht_node" url="{node43}" tilt="-25.29" description="" target=""/>
+      <hotspot pan="-48.88" id="Point03" title="Mezanino Visão 05" distance="5.59866" skinid="ht_node" url="{node76}" tilt="-14.2" description="" target=""/>
+      <hotspot pan="-181.97" id="Point05" title="Elevador&#xa;Pessoas com&#xa;Mobilidade Reduzida" distance3D="120.016" customimage="media/Elevador haste G.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-11.39" customimagewidth="21" description="" target="" customimageheight="47"/>
+      <hotspot pan="-131.91" id="Point06" title="Mezanino Visão 03" distance="7.56984" skinid="ht_node" url="{node70}" tilt="-11.3" description="" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node43">
+    <input width="2000" overlap="1" levelbias="0.400" height="2000" leveltilesize="510" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="2000" width="2000" predecode="0" preload="0"/>
+      <level height="1000" width="1000" predecode="0" preload="0"/>
+      <level height="500" width="500" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="102.822">
+      <start fov="141.16" pan="-55.16" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Floor2|Mezanino" copyright="Market3r" customnodeid="" datetime="23/12/2025 15:06" title="Mezanino Visão 02" altitude="883.70" source="" longitude="-43.94081392" latitude="-19.93568610" nodeid="node43" heading="102.822" description="" info="" comment="">
+      <mapcoords y="-0.6633" x="0.33989" x_floorplan_percent="19.4118" y_floorplan_percent="67.4581" mapid="FloorPlan02"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-358.6" id="Point01" title="Mezanino Visão 01" distance="3.86262" skinid="ht_node" url="{node42}" tilt="-19.09" description="" target=""/>
+      <hotspot pan="-90.63" id="Point02" title="Mezanino Visão 03" distance="6.07707" skinid="ht_node" url="{node70}" tilt="-7.62" description="" target=""/>
+      <hotspot pan="-15.75" id="Point05" title="Mezanino Visão 05" distance="9.01488" skinid="ht_node" url="{node76}" tilt="-6.61" description="" target=""/>
+      <hotspot pan="-172.76" id="Point03" title="Elevador&#xa;Pessoas com&#xa;Mobilidade Reduzida" distance3D="120.016" customimage="media/Elevador haste G.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-37.36" customimagewidth="21" description="" target="" customimageheight="47"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node70">
+    <input width="1520" overlap="1" levelbias="0.400" height="1520" leveltilesize="510" leveltileurl="tiles/node70/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="98.2542">
+      <start fov="152.7" pan="-97.78" projection="4" tilt="-0.05"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Floor2|Mezanino" copyright="Market3r" customnodeid="" datetime="23/12/2025 15:07" title="Mezanino Visão 03" altitude="883.70" source="" longitude="-43.94082798" latitude="-19.93573913" nodeid="node70" heading="98.2542" description="" info="" comment="">
+      <mapcoords y="-0.6633" x="0.508118" x_floorplan_percent="29.0196" y_floorplan_percent="67.4581" mapid="FloorPlan02"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-272.85" id="Point01" title="Mezanino Visão 02" distance="6.07707" skinid="ht_node" url="{node43}" tilt="-4.44" description="" target="-14.0/1.1/141.2"/>
+      <hotspot pan="-95.91" id="Point02" title="Mezanino Visão 04" distance="15.0939" skinid="ht_node" url="{node71}" tilt="-6.84" description="" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node71">
+    <input width="1500" overlap="1" levelbias="0.400" height="1500" leveltilesize="510" leveltileurl="tiles/node71/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="1500" width="1500" predecode="0" preload="0"/>
+      <level height="750" width="750" predecode="0" preload="0"/>
+      <level height="375" width="375" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="104.715">
+      <start fov="152.7" pan="-90.54" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Floor2|Mezanino" copyright="Market3r" customnodeid="" datetime="23/12/2025 15:08" title="Mezanino Visão 04" altitude="883.70" source="" longitude="-43.94086384" latitude="-19.93587062" nodeid="node71" heading="104.715" description="" info="" comment="">
+      <mapcoords y="-0.666046" x="0.924225" x_floorplan_percent="52.7843" y_floorplan_percent="67.7374" mapid="FloorPlan02"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-265.45" id="Point01" title="Mezanino Visão 03" distance="15.0939" skinid="ht_node" url="{node70}" tilt="-20.72" description="" target="89.5/-0.3/152.7"/>
+      <hotspot pan="-109" id="Point02" title="Ent. WC Fem. Mezanino" distance="5.12816" skinid="ht_node" url="{node72}" tilt="-5.75" description="" target=""/>
+      <hotspot pan="-98.12" id="Point03" title="Acesso&#xa;&#xa;WC Feminino" distance3D="142.876" customimage="media/�cone Inf. com haste M�dia.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-23.11" customimagewidth="25" description="" target="" customimageheight="35"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node72">
+    <input width="1520" overlap="1" levelbias="0.400" height="1520" leveltilesize="510" leveltileurl="tiles/node72/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="99.8899">
+      <start fov="126.58" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Floor2|Toilette4" copyright="Market3r" customnodeid="" datetime="23/12/2025 15:09" title="Ent. WC Fem. Mezanino" altitude="883.70" source="" longitude="-43.94088206" latitude="-19.93591344" nodeid="node72" heading="99.8899" description="" info="" comment="">
+      <mapcoords y="-0.684586" x="1.0643" x_floorplan_percent="60.7843" y_floorplan_percent="69.6229" mapid="FloorPlan02"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-281.91" id="Point01" title="Mezanino Visão 04" distance="5.12816" skinid="ht_node" url="{node71}" tilt="-25.76" description="" target="99.4/-1.1/152.7"/>
+      <hotspot skinid="ht_node" pan="-2.54" tilt="-7.89" url="{node74}" description="" id="Point02" title="WC Fem. Mezanino" target=""/>
+      <hotspot pan="-357.52" id="Point03" title="WC Feminino&#xa;&#xa;Coletivo" distance3D="102.87" customimage="media/WC Feminino.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-8" customimagewidth="18" description="" target="" customimageheight="18"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node74">
+    <input width="1520" overlap="1" levelbias="0.400" height="1520" leveltilesize="510" leveltileurl="tiles/node74/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="152.7" pan="113.04" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Floor2|Toilette4" copyright="Market3r" customnodeid="" datetime="23/12/2025 15:10" title="WC Fem. Mezanino" altitude="883.70" source="" longitude="" latitude="" nodeid="node74" heading="0" description="" info="" comment=""/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="-173.58" tilt="-8.04" url="{node72}" description="" id="Point01" title="Ent. WC Fem. Mezanino" target="87.4/0.5/126.6"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node76">
+    <input width="1520" overlap="1" levelbias="0.400" height="1520" leveltilesize="510" leveltileurl="tiles/node76/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="105.205">
+      <start fov="117.02" pan="-5.03" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Floor2|Mezanino" copyright="Market3r" customnodeid="" datetime="23/12/2025 15:18" title="Mezanino Visão 05" altitude="883.70" source="" longitude="-43.94073829" latitude="-19.93572506" nodeid="node76" heading="105.205" description="" info="" comment="">
+      <mapcoords y="-0.422287" x="0.403061" x_floorplan_percent="23.0196" y_floorplan_percent="42.9469" mapid="FloorPlan02"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-204.36" id="Point02" title="Mezanino Visão 01" distance="5.59866" skinid="ht_node" url="{node42}" tilt="-16.35" description="" target=""/>
+      <hotspot pan="-0.23" id="Point01" title="Mezanino Visão 06" distance="7.02501" skinid="ht_node" url="{node77}" tilt="-8.37" description="" target=""/>
+      <hotspot pan="-186.37" id="Point03" title="Mezanino Visão 02" distance="9.01488" skinid="ht_node" url="{node43}" tilt="-7.36" description="" target=""/>
+      <hotspot pan="-197.64" id="Point04" title="Elevador&#xa;Pessoas com&#xa;Mobilidade Reduzida" distance3D="80.0104" customimage="media/Elevador - seta cima baixo 2.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-1.93" customimagewidth="14" description="" target="" customimageheight="14"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node77">
+    <input width="1520" overlap="1" levelbias="0.400" height="1520" leveltilesize="510" leveltileurl="tiles/node77/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="101.896">
+      <start fov="151.89" pan="-109.97" projection="4" tilt="3.52"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Floor2|Mezanino" copyright="Market3r" customnodeid="" datetime="23/12/2025 15:19" title="Mezanino Visão 06" altitude="883.70" source="" longitude="-43.94067357" latitude="-19.93574208" nodeid="node77" heading="101.896" description="" info="" comment="">
+      <mapcoords y="-0.228653" x="0.408554" x_floorplan_percent="23.3333" y_floorplan_percent="23.2542" mapid="FloorPlan02"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-92.9" id="Point02" title="Mezanino Visão 07" distance="10.3122" skinid="ht_node" url="{node78}" tilt="-12.59" description="" target=""/>
+      <hotspot pan="-186.38" id="Point03" title="Mezanino Visão 05" distance="7.02501" skinid="ht_node" url="{node76}" tilt="-19.3" description="" target="168.0/0.4/117.0"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node78">
+    <input width="1520" overlap="1" levelbias="0.400" height="1520" leveltilesize="510" leveltileurl="tiles/node78/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="101">
+      <start fov="152.7" pan="-87.96" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Floor2|Mezanino" copyright="Market3r" customnodeid="" datetime="23/12/2025 15:19" title="Mezanino Visão 07" altitude="883.70" source="" longitude="-43.94069605" latitude="-19.93583238" nodeid="node78" heading="101" description="" info="" comment="">
+      <mapcoords y="-0.22522" x="0.692825" x_floorplan_percent="39.5686" y_floorplan_percent="22.905" mapid="FloorPlan02"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-269.64" id="Point01" title="Mezanino Visão 06" distance="10.3122" skinid="ht_node" url="{node77}" tilt="-20.91" description="" target="-162.2/1.8/151.9"/>
+      <hotspot pan="-86.74" id="Point02" title="Mezanino Visão 08" distance="5.48718" skinid="ht_node" url="{node79}" tilt="-8.79" description="" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node79">
+    <input width="1520" overlap="1" levelbias="0.400" height="1520" leveltilesize="510" leveltileurl="tiles/node79/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="95.121">
+      <start fov="152.7" pan="-92.91" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Floor2|Mezanino" copyright="Market3r" customnodeid="" datetime="23/12/2025 15:20" title="Mezanino Visão 08" altitude="883.70" source="" longitude="-43.94070596" latitude="-19.93588084" nodeid="node79" heading="95.121" description="" info="" comment="">
+      <mapcoords y="-0.21698" x="0.843887" x_floorplan_percent="48.1961" y_floorplan_percent="22.067" mapid="FloorPlan02"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-274.88" id="Point01" title="Mezanino Visão 07" distance="5.48718" skinid="ht_node" url="{node78}" tilt="-18.89" description="" target="75.2/-1.8/152.7"/>
+      <hotspot pan="-80.35" id="Point02" title="Ent. WC Masc. 01" distance="7.84391" skinid="ht_node" url="{node80}" tilt="-2.64" description="" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node80">
+    <input width="1520" overlap="1" levelbias="0.400" height="1520" leveltilesize="510" leveltileurl="tiles/node80/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="152.7" pan="-155.88" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Floor2|Toilette3" copyright="Market3r" customnodeid="" datetime="23/12/2025 15:21" title="Ent. WC Masc. 01" altitude="883.70" source="" longitude="-43.94071850" latitude="-19.93595039" nodeid="node80" heading="0" description="" info="" comment="">
+      <mapcoords y="-0.199814" x="1.06018" x_floorplan_percent="60.549" y_floorplan_percent="20.3212" mapid="FloorPlan02"/>
+    </userdata>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-261.19" id="Point01" title="Mezanino Visão 08" distance="7.84391" skinid="ht_node" url="{node79}" tilt="-27.17" description="" target="82.4/-0.9/152.7"/>
+      <hotspot pan="-141.25" id="Point02" title="WC Masculino&#xa;&#xa;Coletivo" distance3D="102.87" customimage="media/WC Masculino.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-3.61" customimagewidth="18" description="" target="" customimageheight="18"/>
+      <hotspot skinid="ht_node" pan="-144.38" tilt="-31.78" url="{node83}" description="" id="Point03" title="Ent. WC Masc. 02" target=""/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node83">
+    <input width="1520" overlap="1" levelbias="0.400" height="1520" leveltilesize="510" leveltileurl="tiles/node83/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="152.7" pan="-119.23" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Floor2|Toilette3" copyright="Market3r" customnodeid="" datetime="23/12/2025 15:22" title="Ent. WC Masc. 02" altitude="883.70" source="" longitude="" latitude="" nodeid="node83" heading="0" description="" info="" comment=""/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="-135.42" tilt="-15.22" url="{node84}" description="" id="Point01" title="WC Masc. Mezanino" target=""/>
+      <hotspot pan="-137.16" id="Point02" title="WC Masculino&#xa;&#xa;Coletivo" distance3D="102.87" customimage="media/WC Masculino.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="0.6" customimagewidth="18" description="" target="" customimageheight="18"/>
+      <hotspot skinid="ht_node" pan="-351.68" tilt="-30.95" url="{node80}" description="" id="Point03" title="Ent. WC Masc. 01" target="86.9/1.9/152.7"/>
+      <hotspot pan="-99.93" id="Point04" title="Acesso Restrito&#xa;&#xa;Funcionários" distance3D="102.87" customimage="media/�cone Aten��o.png" use3D="0" fov="10" skinid="ht_info" url="" tilt="-3.78" customimagewidth="18" description="" target="" customimageheight="18"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node84">
+    <input width="1520" overlap="1" levelbias="0.400" height="1520" leveltilesize="510" leveltileurl="tiles/node84/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000">
+      <level height="1520" width="1520" predecode="0" preload="0"/>
+      <level height="760" width="760" predecode="0" preload="0"/>
+      <level height="380" width="380" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="151.89" pan="-63.3" projection="4" tilt="-0.35"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata author="Bruno Dias" tags="All|Floor2|Toilette3" copyright="Market3r" customnodeid="" datetime="23/12/2025 15:23" title="WC Masc. Mezanino" altitude="883.70" source="" longitude="" latitude="" nodeid="node84" heading="0" description="" info="" comment=""/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" borderradius="1" textcolor="0x000000" bordercolor="0x000000" textalpha="1" borderalpha="1" enabled="1" height="20" wordwrap="1" border="1" backgroundalpha="1" background="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot skinid="ht_node" pan="-1.97" tilt="-20.08" url="{node83}" description="" id="Point01" title="Ent. WC Masc. 02" target="59.6/-2.3/152.7"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" ambientlevel="0.000" pan="-1.000" nodechangekeep="1" id="_background" pansize="10.000" loop="30" tilt="-1.000" mode="0" level="1.000" startmutedmobile="0" field="90.000">
+        <source url="media/Coldplay - Paradise for violin and piano COVER - Alison Sparrow youtube 1.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" zoomin="2" zoomspeed="2" softedge="0" delay="previewtrack" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomout="0" zoomafterinfov="90" blendtime="1.5" zoomfov="60" type="mesh"/>
+    <autorotate speed="0.400" nodefilter="" useanimation="1" nodedelay="15.00" delay="99999.00" startloaded="0" enabled="1" returntohorizon="0.000" horizonfromdefview="0" noderandom="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="1" animsequence="Animation01"/>
+    <control lockedwheel="0" rubberband="0" lockedmouse="0" hideabout="0" zoomcentercursor="1" invertwheel="0" contextvr="1" simulatemass="1" lockedkeyboard="0" contextprojections="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextfullscreen="1" invertcontrol="1" dblclickfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" tags="" copyright="Market3r" description="Conheça cada detalhe do salão de festas para alugar no Minas Tênis Clube (bairro Lourdes, Belo Horizonte)  através do nosso tour virtual 360°, uma experiência interativa que permite visitar o espaço como se você estivesse no local. Ideal para aniversários, casamentos, festas de 15 anos, eventos corporativos e confraternizações, o tour facilita a escolha do ambiente perfeito para o seu evento.&#xa;&#xa;Com o tour virtual do salão de festas, você pode visualizar a área interna, camarim, cozinha, iluminação e capacidade do local, tudo de forma prática, rápida e sem sair de casa. Essa tecnologia garante mais segurança na decisão e otimiza o tempo de quem busca aluguel de salão de festas com qualidade e estrutura completa.&#xa;&#xa;O espaço foi projetado para oferecer conforto, modernidade, versatilidade e sofisticação, atendendo diferentes tipos de eventos e necessidades. Ao navegar pelo tour, você tem uma visão realista do ambiente, o que torna o processo de locação mais transparente e confiável.&#xa;&#xa;👉 Agende seu evento conosco e confira por que este é o salão de festas ideal para o seu evento." title="Tour Virtual Salão de Festas Minas 1 - CF6" author="Bruno Dias"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map width="2550" id="FloorPlan01" title="Floor 1" index="0" height="1432" crispedges="0" transparent="0" floorplannorth="256" zoomlevels="5" tileformat="png" bgcolor="rgba(255, 255, 255, 1)" type="file"/>
+  <map width="2550" id="FloorPlan02" title="Floor 2" index="1" height="1432" crispedges="0" transparent="0" floorplannorth="256" zoomlevels="5" tileformat="png" bgcolor="rgba(255, 255, 255, 1)" type="file"/>
+</tour>
