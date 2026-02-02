@@ -64,7 +64,7 @@
       <hotspot pan="-188.36" distance="141.308" skinid="ht_node" target="" id="Point10" tilt="-5.95" title="Salão Visão 03" description="" url="{node68}"/>
       <hotspot pan="-191.77" distance="140.173" skinid="ht_node" target="" id="Point11" tilt="-21.02" title="Salão Visão 02" description="" url="{node92}"/>
       <hotspot pan="-262.15" distance="133.235" skinid="ht_node" target="" id="Point01" tilt="-9.61" title="Hall de entrada" description="" url="{node9}"/>
-      <hotspot pan="-175.46" distance="142.441" skinid="ht_node" target="" id="Point12" tilt="-3.87" title="Corredor Ext. Visão 01" description="" url="{node90}"/>
+      <hotspot pan="-175.46" distance="142.441" skinid="ht_node" target="" id="Point12" tilt="-3.87" title="Corredor Ext. 01" description="" url="{node90}"/>
     </hotspots>
     <media>
       <sound mode="0" pan="-1.000" pansize="10.000" tiltsize="10.000" nodechangekeep="1" field="90.000" ambientlevel="0.000" level="1.000" loop="30" id="_background" tilt="-1.000" startmutedmobile="0">
@@ -100,8 +100,8 @@
       <hotspot distance3D="154.306" customimagewidth="27" pan="-71.51" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Sa�da Lateral.png" customimageheight="37" id="Point02" tilt="-2.82" title="Saída Lateral&#xa;&#xa;Operação e Serviços" description="" url=""/>
       <hotspot distance3D="165.736" customimagewidth="29" pan="-91.84" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/�cone Inf. com haste M�dia.png" customimageheight="41" id="Point03" tilt="-2.31" title="Palco&#xa;Local para &#xa;Montagem" description="" url=""/>
       <hotspot distance3D="177.166" customimagewidth="31" pan="-113.21" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Sa�da Lateral.png" customimageheight="43" id="Point04" tilt="-2.2" title="Saída Lateral&#xa;&#xa;Operação e Serviços" description="" url=""/>
-      <hotspot pan="-116.83" distance="22.4116" skinid="ht_node" target="" id="Point05" tilt="-0.11" title="Corredor Ext. Visão 02" description="" url="{node88}"/>
-      <hotspot pan="-180.29" distance="14.9429" skinid="ht_node" target="" id="Point07" tilt="-1.15" title="Corredor Ext. Visão 01" description="" url="{node90}"/>
+      <hotspot pan="-116.83" distance="22.4116" skinid="ht_node" target="" id="Point05" tilt="-0.11" title="Corredor Ext. 02" description="" url="{node88}"/>
+      <hotspot pan="-180.29" distance="14.9429" skinid="ht_node" target="" id="Point07" tilt="-1.15" title="Corredor Ext. 01" description="" url="{node90}"/>
       <hotspot distance3D="85.7254" customimagewidth="15" pan="-207.59" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Sa�da.png" customimageheight="15" id="Point08" tilt="-2.14" title="Saída&#xa;&#xa;Convidados" description="" url=""/>
       <hotspot pan="-187" distance="10.5855" skinid="ht_node" target="-174.0/0.2/151.9" id="Point09" tilt="-13.66" title="Salão Visão 03" description="" url="{node68}"/>
       <hotspot pan="-112.18" distance="21.2755" skinid="ht_node" target="" id="Point12" tilt="-7.77" title="Salão Visão 06" description="" url="{node19}"/>
@@ -146,7 +146,7 @@
       <hotspot distance3D="154.306" customimagewidth="27" pan="-97.15" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Sa�da Lateral.png" customimageheight="36" id="Point09" tilt="-1.96" title="Saída Lateral&#xa;&#xa;Operação e Serviços" description="" url=""/>
       <hotspot distance3D="154.306" customimagewidth="27" pan="-56.26" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Sa�da Lateral.png" customimageheight="38" id="Point10" tilt="-1.42" title="Saída Lateral&#xa;&#xa;Operação e Serviços" description="" url=""/>
       <hotspot distance3D="97.1554" customimagewidth="17" pan="-269.1" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Sa�da.png" customimageheight="17" id="Point11" tilt="-3.35" title="Saída&#xa;&#xa;Convidados" description="" url=""/>
-      <hotspot pan="-184.02" distance="4.37359" skinid="ht_node" target="" id="Point05" tilt="-6.33" title="Corredor Ext. Visão 01" description="" url="{node90}"/>
+      <hotspot pan="-184.02" distance="4.37359" skinid="ht_node" target="" id="Point05" tilt="-6.33" title="Corredor Ext. 01" description="" url="{node90}"/>
       <hotspot pan="-54.51" distance="24.2181" skinid="ht_node" target="" id="Point01" tilt="-10.62" title="Salão Visão 04" description="" url="{node96}"/>
       <hotspot pan="-78.29" distance="19.9748" skinid="ht_node" target="" id="Point02" tilt="-12.55" title="Salão Visão 05" description="" url="{node94}"/>
       <hotspot pan="-356.64" distance="10.5855" skinid="ht_node" target="-4.7/0.2/102.4" id="Point04" tilt="-22.49" title="Salão Visão 02" description="" url="{node92}"/>
@@ -187,19 +187,19 @@
       <hotspot pan="-230.09" distance="24.2181" skinid="ht_node" target="" id="Point01" tilt="-5.86" title="Salão Visão 03" description="" url="{node68}"/>
       <hotspot pan="-247.3" distance="19.371" skinid="ht_node" target="23.3/-4.3/102.4" id="Point02" tilt="-6.85" title="Salão Visão 02" description="" url="{node92}"/>
       <hotspot pan="-263.36" distance="25.4847" skinid="ht_node" target="" id="Point04" tilt="-0.83" title="Hall de entrada" description="" url="{node9}"/>
-      <hotspot pan="-224.44" distance="26.8654" skinid="ht_node" target="" id="Point05" tilt="-0.25" title="Corredor Ext. Visão 01" description="" url="{node90}"/>
+      <hotspot pan="-224.44" distance="26.8654" skinid="ht_node" target="" id="Point05" tilt="-0.25" title="Corredor Ext. 01" description="" url="{node90}"/>
       <hotspot pan="-172.31" distance="15.0458" skinid="ht_node" target="" id="Point07" tilt="-6.97" title="Salão Visão 06" description="" url="{node19}"/>
       <hotspot pan="-150.57" distance="9.38991" skinid="ht_node" target="" id="Point08" tilt="-11.91" title="Palco" description="" url="{node20}"/>
       <hotspot distance3D="160.021" customimagewidth="28" pan="-146.59" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/�cone Inf. com haste M�dia.png" customimageheight="36" id="Point09" tilt="-5.65" title="Palco&#xa;&#xa;Local Montagem" description="" url=""/>
       <hotspot distance3D="182.881" customimagewidth="32" pan="-165.36" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Sa�da Lateral.png" customimageheight="42" id="Point10" tilt="-3.68" title="Saída Lateral&#xa;&#xa;Operação e Serviços" description="" url=""/>
-      <hotspot pan="-173.05" distance="19.6188" skinid="ht_node" target="" id="Point11" tilt="-0.43" title="Corredor Ext. Visão 02" description="" url="{node88}"/>
+      <hotspot pan="-173.05" distance="19.6188" skinid="ht_node" target="" id="Point11" tilt="-0.43" title="Corredor Ext. 02" description="" url="{node88}"/>
       <hotspot distance3D="120.016" customimagewidth="21" pan="-227.58" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Elevador haste G.png" customimageheight="43" id="Point12" tilt="-1.88" title="Elevador&#xa;Pessoas com&#xa;Mobilidade Reduzida" description="" url=""/>
       <hotspot distance3D="85.7254" customimagewidth="15" pan="-232.48" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Sa�da.png" customimageheight="15" id="Point13" tilt="-0.6" title="Saída&#xa;&#xa;Convidados" description="" url=""/>
       <hotspot distance3D="85.7254" customimagewidth="15" pan="-235.86" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Sa�da.png" customimageheight="15" id="Point14" tilt="-0.67" title="Saída&#xa;&#xa;Convidados" description="" url=""/>
       <hotspot distance3D="80.0104" customimagewidth="14" pan="-267.56" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Sa�da.png" customimageheight="14" id="Point15" tilt="-1.16" title="Saída&#xa;&#xa;Convidados" description="" url=""/>
       <hotspot distance3D="85.7254" customimagewidth="15" pan="-264.56" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Sa�da.png" customimageheight="15" id="Point16" tilt="-1.04" title="Saída&#xa;&#xa;Convidados" description="" url=""/>
       <hotspot pan="-166.86" distance="7.65821" skinid="ht_node" target="" id="Point17" tilt="-26.91" title="Salão Visão 05" description="" url="{node94}"/>
-      <hotspot pan="-65.19" distance="5.23757" skinid="ht_node" target="" id="Point06" tilt="-12.51" title="Saída Op. Esq. Visão 01" description="" url="{node67}"/>
+      <hotspot pan="-65.19" distance="5.23757" skinid="ht_node" target="" id="Point06" tilt="-12.51" title="Saída Op. Esq." description="" url="{node67}"/>
       <hotspot pan="-263.73" distance="158.708" skinid="ht_node" target="" id="Point03" tilt="-7.01" title="Salão Visão 01" description="" url="{node100}"/>
       <hotspot distance3D="182.881" customimagewidth="32" pan="-57.14" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Sa�da Lateral.png" customimageheight="42" id="Point18" tilt="-15.97" title="Saída Lateral&#xa;&#xa;Operação e Serviços" description="" url=""/>
     </hotspots>
@@ -240,8 +240,8 @@
       <hotspot distance3D="171.451" customimagewidth="30" pan="-88.64" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/�cone Inf. com haste M�dia.png" customimageheight="42" id="Point04" tilt="-15.88" title="Palco&#xa;Local Montagem" description="" url=""/>
       <hotspot distance3D="125.731" customimagewidth="22" pan="-115.87" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Camarim com haste G.png" customimageheight="51" id="Point05" tilt="-9.06" title="Acesso Lateral&#xa;&#xa;Camarim 1" description="" url=""/>
       <hotspot distance3D="160.021" customimagewidth="28" pan="-159.79" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Sa�da Lateral.png" customimageheight="42" id="Point06" tilt="-7.26" title="Saída Lateral&#xa;&#xa;Operação e Serviços" description="" url=""/>
-      <hotspot pan="-172.11" distance="11.982" skinid="ht_node" target="" id="Point07" tilt="-0.86" title="Corredor Ext. Visão 02" description="" url="{node88}"/>
-      <hotspot pan="-239.64" distance="21.6321" skinid="ht_node" target="" id="Point08" tilt="-0.56" title="Corredor Ext. Visão 01" description="" url="{node90}"/>
+      <hotspot pan="-172.11" distance="11.982" skinid="ht_node" target="" id="Point07" tilt="-0.86" title="Corredor Ext. 02" description="" url="{node88}"/>
+      <hotspot pan="-239.64" distance="21.6321" skinid="ht_node" target="" id="Point08" tilt="-0.56" title="Corredor Ext. 01" description="" url="{node90}"/>
       <hotspot pan="-281.95" distance="26.7326" skinid="ht_node" target="" id="Point09" tilt="-1.25" title="Hall de entrada" description="" url="{node9}"/>
       <hotspot pan="-267.6" distance="18.7001" skinid="ht_node" target="" id="Point11" tilt="-7.79" title="Salão Visão 02" description="" url="{node92}"/>
       <hotspot pan="-247.9" distance="19.9748" skinid="ht_node" target="" id="Point12" tilt="-6.69" title="Salão Visão 03" description="" url="{node68}"/>
@@ -283,7 +283,7 @@
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot pan="-125.53" distance="5.63748" skinid="ht_node" target="" id="Point04" tilt="-24.39" title="Saída Op. Dir. Visão 02" description="" url="{node45}"/>
+      <hotspot pan="-125.53" distance="5.63748" skinid="ht_node" target="" id="Point04" tilt="-24.39" title="Saída Op. Dir. 02" description="" url="{node45}"/>
       <hotspot distance3D="154.306" customimagewidth="27" pan="-26.94" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/�cone Inf. com haste M�dia.png" customimageheight="37" id="Point02" tilt="-8.74" title="Palco&#xa;&#xa;Local Montagem" description="" url=""/>
       <hotspot pan="-272.72" distance="18.5856" skinid="ht_node" target="116.6/1.6/151.9" id="Point03" tilt="-6.93" title="Salão Visão 03" description="" url="{node68}"/>
       <hotspot distance3D="228.601" customimagewidth="40" pan="-118.27" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Sa�da Lateral.png" customimageheight="57" id="Point09" tilt="-17.1" title="Saída Lateral&#xa;&#xa;Operação e Serviços" description="" url=""/>
@@ -294,7 +294,7 @@
       <hotspot distance3D="85.7254" customimagewidth="15" pan="-271.38" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Sa�da.png" customimageheight="15" id="Point14" tilt="-0.45" title="Saída&#xa;&#xa;Convidados" description="" url=""/>
       <hotspot distance3D="188.596" customimagewidth="33" pan="-173.5" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/cone Inf. com haste gde..png" customimageheight="56" id="Point19" tilt="-29.64" title="Acesso&#xa;&#xa;Lateral Externa" description="" url=""/>
       <hotspot pan="-22.24" distance="10.0449" skinid="ht_node" target="" id="Point15" tilt="-11.93" title="Palco" description="" url="{node20}"/>
-      <hotspot pan="-179.25" distance="4.81474" skinid="ht_node" target="" id="Point01" tilt="-7.76" title="Corredor Ext. Visão 02" description="" url="{node88}"/>
+      <hotspot pan="-179.25" distance="4.81474" skinid="ht_node" target="" id="Point01" tilt="-7.76" title="Corredor Ext. 02" description="" url="{node88}"/>
       <hotspot pan="-4.74" distance="7.39424" skinid="ht_node" target="" id="Point05" tilt="-14.96" title="Salão Visão 05" description="" url="{node94}"/>
       <hotspot pan="-2.91001" distance="15.0458" skinid="ht_node" target="" id="Point06" tilt="-6.92" title="Salão Visão 04" description="" url="{node96}"/>
       <hotspot pan="-293.51" distance="21.2755" skinid="ht_node" target="" id="Point07" tilt="-7.13" title="Salão Visão 02" description="" url="{node92}"/>
@@ -332,8 +332,8 @@
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot pan="-34.29" distance="6.0873" skinid="ht_node" target="-132.1/-4.5/141.2" id="Point02" tilt="-5.39" title="Acesso Camarim e Lat." description="" url="{node57}"/>
-      <hotspot pan="-157.19" distance="6.83471" skinid="ht_node" target="" id="Point03" tilt="-5.72" title="Acesso Op. Visão 02" description="" url="{node49}"/>
+      <hotspot pan="-34.29" distance="6.0873" skinid="ht_node" target="-132.1/-4.5/141.2" id="Point02" tilt="-5.39" title="Acesso Camarim" description="" url="{node57}"/>
+      <hotspot pan="-157.19" distance="6.83471" skinid="ht_node" target="" id="Point03" tilt="-5.72" title="Acesso Op.Visão 02" description="" url="{node49}"/>
       <hotspot distance3D="182.881" customimagewidth="32" pan="-96.36" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/�cone Inf. com haste M�dia.png" customimageheight="46" id="Point04" tilt="-41.55" title="Palco&#xa;&#xa;Local Montagem" description="" url=""/>
       <hotspot pan="-255.19" distance="26.1236" skinid="ht_node" target="113.0/3.7/151.9" id="Point09" tilt="-7.21" title="Salão Visão 03" description="" url="{node68}"/>
       <hotspot distance3D="142.876" customimagewidth="25" pan="-253.83" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/�cone Inf. com haste M�dia.png" customimageheight="35" id="Point10" tilt="-3.8" title="Acesso&#xa;&#xa;Área Externa" description="" url=""/>
@@ -370,7 +370,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fov="140" tilt="90" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" tags="AcessoToilettes1|All|Floor1" nodeid="node90" info="" heading="195.657" altitude="904.50" copyright="Market3r" latitude="-19.93569324" longitude="-43.94084406" source="" customnodeid="" author="Bruno Dias" comment="" datetime="08/01/2026 11:19" title="Corredor Ext. Visão 01">
+    <userdata description="" tags="AcessoToilettes1|All|Floor1" nodeid="node90" info="" heading="195.657" altitude="904.50" copyright="Market3r" latitude="-19.93569324" longitude="-43.94084406" source="" customnodeid="" author="Bruno Dias" comment="" datetime="08/01/2026 11:19" title="Corredor Ext. 01">
       <mapcoords mapid="FloorPlan01" x_floorplan_percent="22.7059" x="0.397568" y_floorplan_percent="78.0726" y="-0.76767"/>
     </userdata>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
@@ -378,7 +378,7 @@
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
       <hotspot pan="-234.11" distance="4.37359" skinid="ht_node" target="-64.1/-0.1/151.9" id="Point02" tilt="-11.27" title="Salão Visão 03" description="" url="{node68}"/>
       <hotspot distance3D="80.0104" customimagewidth="14" pan="-191.7" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Elevador - seta cima baixo 2.png" customimageheight="14" id="Point03" tilt="7.4" title="Elevador&#xa;Pessoas com&#xa;Mobilidade Reduzida" description="" url=""/>
-      <hotspot pan="-358.4" distance="16.3567" skinid="ht_node" target="" id="Point01" tilt="-8.98" title="Corredor Ext. Visão 02" description="" url="{node88}"/>
+      <hotspot pan="-358.4" distance="16.3567" skinid="ht_node" target="" id="Point01" tilt="-8.98" title="Corredor Ext. 02" description="" url="{node88}"/>
     </hotspots>
     <media>
       <sound mode="0" pan="-1.000" pansize="10.000" tiltsize="10.000" nodechangekeep="1" field="90.000" ambientlevel="0.000" level="1.000" loop="30" id="_background" tilt="-1.000" startmutedmobile="0">
@@ -404,14 +404,14 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fov="140" tilt="90" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" tags="AcessoToilettes1|All|Floor1" nodeid="node88" info="" heading="178.838" altitude="902.70" copyright="Market3r" latitude="-19.93583586" longitude="-43.94088238" source="" customnodeid="" author="Bruno Dias" comment="" datetime="08/01/2026 11:17" title="Corredor Ext. Visão 02">
+    <userdata description="" tags="AcessoToilettes1|All|Floor1" nodeid="node88" info="" heading="178.838" altitude="902.70" copyright="Market3r" latitude="-19.93583586" longitude="-43.94088238" source="" customnodeid="" author="Bruno Dias" comment="" datetime="08/01/2026 11:17" title="Corredor Ext. 02">
       <mapcoords mapid="FloorPlan01" x_floorplan_percent="48.0392" x="0.841141" y_floorplan_percent="78.1425" y="-0.768356"/>
     </userdata>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot pan="-14.5" distance="21.9828" skinid="ht_node" target="" id="Point01" tilt="-3.57" title="Corredor Ext. Visão 03" description="" url="{node24}"/>
-      <hotspot pan="-194.65" distance="16.3567" skinid="ht_node" target="128.4/2.1/151.9" id="Point02" tilt="-10.95" title="Corredor Ext. Visão 01" description="" url="{node90}"/>
+      <hotspot pan="-14.5" distance="21.9828" skinid="ht_node" target="" id="Point01" tilt="-3.57" title="Corredor Ext. 03" description="" url="{node24}"/>
+      <hotspot pan="-194.65" distance="16.3567" skinid="ht_node" target="128.4/2.1/151.9" id="Point02" tilt="-10.95" title="Corredor Ext. 01" description="" url="{node90}"/>
       <hotspot distance3D="80.0104" customimagewidth="14" pan="-196.89" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Elevador - seta cima baixo 2.png" customimageheight="14" id="Point03" tilt="1.81" title="Elevador&#xa;Pessoas com&#xa;Mobilidade Reduzida" description="" url=""/>
       <hotspot pan="-356.24" distance="4.81474" skinid="ht_node" target="" id="Point04" tilt="-3.53" title="Salão Visão 06" description="" url="{node19}"/>
     </hotspots>
@@ -439,7 +439,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fov="140" tilt="90" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" tags="AcessoToilettes1|All|Floor1" nodeid="node24" info="" heading="102.431" altitude="931.20" copyright="Market3r" latitude="-19.93602843" longitude="-43.94092996" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:21" title="Corredor Ext. Visão 03">
+    <userdata description="" tags="AcessoToilettes1|All|Floor1" nodeid="node24" info="" heading="102.431" altitude="931.20" copyright="Market3r" latitude="-19.93602843" longitude="-43.94092996" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:21" title="Corredor Ext. 03">
       <mapcoords mapid="FloorPlan01" x_floorplan_percent="82.0784" x="1.43715" y_floorplan_percent="77.2346" y="-0.75943"/>
     </userdata>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
@@ -448,7 +448,7 @@
       <hotspot pan="-3.5" id="Point02" tilt="-20.65" target="-40.7/0.4/151.9" skinid="ht_node" title="Entrada WC - 1st floor" description="" url="{node26}"/>
       <hotspot distance3D="154.306" customimagewidth="27" pan="-357.23" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/�cone Inf. com haste M�dia.png" customimageheight="39" id="Point03" tilt="-13.78" title="Acesso Doca&#xa;Local para&#xa;Carga e Descarga" description="" url=""/>
       <hotspot pan="-4.55" distance="5.60875" skinid="ht_node" target="" id="Point05" tilt="-5.37" title="Doca Visão 01" description="" url="{node36}"/>
-      <hotspot pan="-267.17" distance="21.9828" skinid="ht_node" target="161.4/-0.5/94.7" id="Point01" tilt="-7.22" title="Corredor Ext. Visão 02" description="" url="{node88}"/>
+      <hotspot pan="-267.17" distance="21.9828" skinid="ht_node" target="161.4/-0.5/94.7" id="Point01" tilt="-7.22" title="Corredor Ext. 02" description="" url="{node88}"/>
       <hotspot distance3D="120.016" customimagewidth="21" pan="-268.92" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Elevador haste G.png" customimageheight="47" id="Point04" tilt="-2.08" title="Elevador&#xa;Pessoas com&#xa;Mobilidade Reduzida" description="" url=""/>
     </hotspots>
     <media>
@@ -479,15 +479,15 @@
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot pan="-179.97" id="Point01" tilt="-19.35" target="" skinid="ht_node" title="Corredor Ext. Visão 03" description="" url="{node24}"/>
+      <hotspot pan="-179.97" id="Point01" tilt="-19.35" target="" skinid="ht_node" title="Corredor Ext. 03" description="" url="{node24}"/>
       <hotspot distance3D="91.4404" customimagewidth="16" pan="-113.34" fov="10" use3D="0" target="_blank" skinid="ht_url" customimage="media/WC Feminino.png" customimageheight="16" id="Point03" tilt="0.33" title="WC Feminino&#xa;&#xa;Coletivo" description="" url=""/>
       <hotspot distance3D="91.4404" customimagewidth="16" pan="-49.74" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/WC Masculino.png" customimageheight="16" id="Point04" tilt="1.39" title="WC Masculino&#xa;&#xa;Coletivo" description="" url=""/>
       <hotspot distance3D="102.87" customimagewidth="18" pan="-310.67" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Banheiro acess�vel.png" customimageheight="18" id="Point05" tilt="-2.24" title="WC Convidados&#xa;&#xa;Acessível" description="" url=""/>
       <hotspot distance3D="177.166" customimagewidth="31" pan="-4.91" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/�cone Inf. com haste gde..png" customimageheight="59" id="Point06" tilt="-46.31" title="Acesso Doca&#xa;Local para&#xa;Carga e Descarga" description="" url=""/>
       <hotspot pan="-6.46" id="Point07" tilt="-10.82" target="" skinid="ht_node" title="Doca Visão 01" description="" url="{node36}"/>
       <hotspot pan="-314.86" id="Point08" tilt="-11.93" target="" skinid="ht_node" title="WC Acessibilidade" description="" url="{node33}"/>
-      <hotspot pan="-112.58" id="Point09" tilt="-8.11" target="" skinid="ht_node" title="WC Feminino Visão 01" description="" url="{node28}"/>
-      <hotspot pan="-50.65" id="Point10" tilt="-7.7" target="3.6/-0.0/151.9" skinid="ht_node" title="WC Masculino 1st floor" description="" url="{node31}"/>
+      <hotspot pan="-112.58" id="Point09" tilt="-8.11" target="" skinid="ht_node" title="WC Fem.1st floor 01" description="" url="{node28}"/>
+      <hotspot pan="-50.65" id="Point10" tilt="-7.7" target="3.6/-0.0/151.9" skinid="ht_node" title="WC Masc.1st floor" description="" url="{node31}"/>
     </hotspots>
     <media>
       <sound mode="0" pan="-1.000" pansize="10.000" tiltsize="10.000" nodechangekeep="1" field="90.000" ambientlevel="0.000" level="1.000" loop="30" id="_background" tilt="-1.000" startmutedmobile="0">
@@ -543,11 +543,11 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fov="140" tilt="90" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" tags="All|Toilette1" nodeid="node28" info="" heading="0" altitude="931.20" copyright="Market3r" latitude="" longitude="" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:23" title="WC Feminino Visão 01"/>
+    <userdata description="" tags="All|Toilette1" nodeid="node28" info="" heading="0" altitude="931.20" copyright="Market3r" latitude="" longitude="" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:23" title="WC Fem.1st floor 01"/>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot pan="-65.79" id="Point02" tilt="-22.85" target="" skinid="ht_node" title="WC Feminino 1st floor" description="" url="{node29}"/>
+      <hotspot pan="-65.79" id="Point02" tilt="-22.85" target="" skinid="ht_node" title="WC Fem.1st floor " description="" url="{node29}"/>
       <hotspot pan="-344.41" id="Point01" tilt="-29.43" target="" skinid="ht_node" title="Entrada WC - 1st floor" description="" url="{node26}"/>
     </hotspots>
     <media>
@@ -574,12 +574,12 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fov="140" tilt="90" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" tags="All|Floor1|Toilette1" nodeid="node29" info="" heading="0" altitude="931.20" copyright="Market3r" latitude="" longitude="" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:24" title="WC Feminino 1st floor"/>
+    <userdata description="" tags="All|Floor1|Toilette1" nodeid="node29" info="" heading="0" altitude="931.20" copyright="Market3r" latitude="" longitude="" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:24" title="WC Fem.1st floor "/>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot pan="-253.23" id="Point01" tilt="-25.78" target="" skinid="ht_node" title="WC Feminino Visão 01" description="" url="{node28}"/>
-      <hotspot pan="-198.67" id="Point02" tilt="-19.22" target="" skinid="ht_node" title="WC Feminino Visão 03" description="" url="{node16}"/>
+      <hotspot pan="-253.23" id="Point01" tilt="-25.78" target="" skinid="ht_node" title="WC Fem.1st floor 01" description="" url="{node28}"/>
+      <hotspot pan="-198.67" id="Point02" tilt="-19.22" target="" skinid="ht_node" title="WC Fem.1st floor 03" description="" url="{node16}"/>
     </hotspots>
     <media>
       <sound mode="0" pan="-1.000" pansize="10.000" tiltsize="10.000" nodechangekeep="1" field="90.000" ambientlevel="0.000" level="1.000" loop="30" id="_background" tilt="-1.000" startmutedmobile="0">
@@ -605,11 +605,11 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fov="140" tilt="90" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" tags="All|Toilette1" nodeid="node16" info="" heading="0" altitude="931.20" copyright="Market3r" latitude="" longitude="" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:25" title="WC Feminino Visão 03"/>
+    <userdata description="" tags="All|Toilette1" nodeid="node16" info="" heading="0" altitude="931.20" copyright="Market3r" latitude="" longitude="" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:25" title="WC Fem.1st floor 03"/>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot pan="-16.19" id="Point01" tilt="-20.57" target="" skinid="ht_node" title="WC Feminino 1st floor" description="" url="{node29}"/>
+      <hotspot pan="-16.19" id="Point01" tilt="-20.57" target="" skinid="ht_node" title="WC Fem.1st floor " description="" url="{node29}"/>
     </hotspots>
     <media>
       <sound mode="0" pan="-1.000" pansize="10.000" tiltsize="10.000" nodechangekeep="1" field="90.000" ambientlevel="0.000" level="1.000" loop="30" id="_background" tilt="-1.000" startmutedmobile="0">
@@ -635,12 +635,12 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fov="140" tilt="90" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" tags="All|Floor1|Toilette2" nodeid="node31" info="" heading="0" altitude="931.20" copyright="Market3r" latitude="" longitude="" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:27" title="WC Masculino 1st floor"/>
+    <userdata description="" tags="All|Floor1|Toilette2" nodeid="node31" info="" heading="0" altitude="931.20" copyright="Market3r" latitude="" longitude="" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:27" title="WC Masc.1st floor"/>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
       <hotspot pan="-267.39" id="Point01" tilt="-28.16" target="123.1/0.4/151.9" skinid="ht_node" title="Entrada WC - 1st floor" description="" url="{node26}"/>
-      <hotspot pan="-354.5" id="Point02" tilt="-35.5" target="" skinid="ht_node" title="WC Masculino Visão 02" description="" url="{node32}"/>
+      <hotspot pan="-354.5" id="Point02" tilt="-35.5" target="" skinid="ht_node" title="WC Masc.1st floor 02" description="" url="{node32}"/>
     </hotspots>
     <media>
       <sound mode="0" pan="-1.000" pansize="10.000" tiltsize="10.000" nodechangekeep="1" field="90.000" ambientlevel="0.000" level="1.000" loop="30" id="_background" tilt="-1.000" startmutedmobile="0">
@@ -666,11 +666,11 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fov="140" tilt="90" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" tags="All|Toilette2" nodeid="node32" info="" heading="0" altitude="931.20" copyright="Market3r" latitude="" longitude="" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:27" title="WC Masculino Visão 02"/>
+    <userdata description="" tags="All|Toilette2" nodeid="node32" info="" heading="0" altitude="931.20" copyright="Market3r" latitude="" longitude="" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:27" title="WC Masc.1st floor 02"/>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot pan="-181.23" id="Point01" tilt="-25.07" target="" skinid="ht_node" title="WC Masculino 1st floor" description="" url="{node31}"/>
+      <hotspot pan="-181.23" id="Point01" tilt="-25.07" target="" skinid="ht_node" title="WC Masc.1st floor" description="" url="{node31}"/>
     </hotspots>
     <media>
       <sound mode="0" pan="-1.000" pansize="10.000" tiltsize="10.000" nodechangekeep="1" field="90.000" ambientlevel="0.000" level="1.000" loop="30" id="_background" tilt="-1.000" startmutedmobile="0">
@@ -763,14 +763,14 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fov="140" tilt="90" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" tags="AcessoCamarinsCozinhaDoca|All|Floor1" nodeid="node30" info="" heading="76.2677" altitude="931.20" copyright="Market3r" latitude="-19.93595461" longitude="-43.94087244" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:38" title="Acesso Op. Visão 01">
+    <userdata description="" tags="AcessoCamarinsCozinhaDoca|All|Floor1" nodeid="node30" info="" heading="76.2677" altitude="931.20" copyright="Market3r" latitude="-19.93595461" longitude="-43.94087244" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:38" title="Acesso Op.Visão 01">
       <mapcoords mapid="FloorPlan01" x_floorplan_percent="67.5294" x="1.1824" y_floorplan_percent="66.6201" y="-0.65506"/>
     </userdata>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot pan="-266.32" distance="4.3059" skinid="ht_node" target="" id="Point01" tilt="-7.66" title="Saída Op. Dir. Visão 01" description="" url="{node44}"/>
-      <hotspot pan="-0.37" distance="2.78568" skinid="ht_node" target="-54.4/-7.0/152.7" id="Point03" tilt="-25.91" title="Acesso Op. Visão 02" description="" url="{node49}"/>
+      <hotspot pan="-266.32" distance="4.3059" skinid="ht_node" target="" id="Point01" tilt="-7.66" title="Saída Op. Dir. 01" description="" url="{node44}"/>
+      <hotspot pan="-0.37" distance="2.78568" skinid="ht_node" target="-54.4/-7.0/152.7" id="Point03" tilt="-25.91" title="Acesso Op.Visão 02" description="" url="{node49}"/>
       <hotspot distance3D="142.876" customimagewidth="25" pan="-269.83" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/�cone Inf. com haste M�dia.png" customimageheight="35" id="Point02" tilt="-28.21" title="Saída Lateral&#xa;&#xa;Operação e Serviços" description="" url=""/>
     </hotspots>
     <media>
@@ -797,16 +797,16 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fov="140" tilt="90" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" tags="AcessoCamarinsCozinhaDoca|All|Floor1" nodeid="node49" info="" heading="0" altitude="883.70" copyright="Market3r" latitude="-19.93596023" longitude="-43.94084647" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:43" title="Acesso Op. Visão 02">
+    <userdata description="" tags="AcessoCamarinsCozinhaDoca|All|Floor1" nodeid="node49" info="" heading="0" altitude="883.70" copyright="Market3r" latitude="-19.93596023" longitude="-43.94084647" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:43" title="Acesso Op.Visão 02">
       <mapcoords mapid="FloorPlan01" x_floorplan_percent="67.451" x="1.18103" y_floorplan_percent="58.9385" y="-0.579529"/>
     </userdata>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
       <hotspot pan="-252.55" distance="4.17648" skinid="ht_node" target="" id="Point02" tilt="-6.95" title="Camarim 1" description="" url="{node51}"/>
-      <hotspot pan="-187.16" distance="2.78568" skinid="ht_node" target="84.6/-1.5/152.7" id="Point01" tilt="-12.05" title="Acesso Op. Visão 01" description="" url="{node30}"/>
-      <hotspot pan="-105.2" distance="2.75049" skinid="ht_node" target="" id="Point03" tilt="-19.99" title="Corredor da Cozinha" description="" url="{node40}"/>
-      <hotspot pan="-355.75" distance="9.52091" skinid="ht_node" target="58.3/0.3/141.2" id="Point04" tilt="-9.82" title="Acesso Camarim e Lat." description="" url="{node57}"/>
+      <hotspot pan="-187.16" distance="2.78568" skinid="ht_node" target="84.6/-1.5/152.7" id="Point01" tilt="-12.05" title="Acesso Op.Visão 01" description="" url="{node30}"/>
+      <hotspot pan="-105.2" distance="2.75049" skinid="ht_node" target="" id="Point03" tilt="-19.99" title="Corredor Cozinha" description="" url="{node40}"/>
+      <hotspot pan="-355.75" distance="9.52091" skinid="ht_node" target="58.3/0.3/141.2" id="Point04" tilt="-9.82" title="Acesso Camarim" description="" url="{node57}"/>
       <hotspot pan="-282.42" distance="6.83471" skinid="ht_node" target="" id="Point05" tilt="-6.36" title="Palco" description="" url="{node20}"/>
       <hotspot distance3D="97.1554" customimagewidth="17" pan="-331.74" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Gerador.png" customimageheight="17" id="Point06" tilt="-3.09" title="Gerador&#xa;&#xa;de Energia" description="" url=""/>
       <hotspot distance3D="171.451" customimagewidth="30" pan="-117.02" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/�cone Inf. com haste gde.-1.png" customimageheight="52" id="Point07" tilt="-29.45" title="Corredor de Acesso&#xa;para&#xa;Cozinhas e Doca" description="" url=""/>
@@ -837,13 +837,13 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fov="140" tilt="90" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" tags="AcessoCamarinsCozinhaDoca|All|Floor1" nodeid="node40" info="" heading="108.489" altitude="931.20" copyright="Market3r" latitude="-19.93598232" longitude="-43.94085831" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:37" title="Corredor da Cozinha">
+    <userdata description="" tags="AcessoCamarinsCozinhaDoca|All|Floor1" nodeid="node40" info="" heading="108.489" altitude="931.20" copyright="Market3r" latitude="-19.93598232" longitude="-43.94085831" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:37" title="Corredor Cozinha">
       <mapcoords mapid="FloorPlan01" x_floorplan_percent="71.5686" x="1.25313" y_floorplan_percent="60.5447" y="-0.595322"/>
     </userdata>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot pan="-263.58" distance="2.75049" skinid="ht_node" target="97.6/1.4/152.7" id="Point01" tilt="-26.16" title="Acesso Op. Visão 02" description="" url="{node49}"/>
+      <hotspot pan="-263.58" distance="2.75049" skinid="ht_node" target="97.6/1.4/152.7" id="Point01" tilt="-26.16" title="Acesso Op.Visão 02" description="" url="{node49}"/>
       <hotspot pan="-82.66" distance="3.14052" skinid="ht_node" target="-130.3/0.4/152.7" id="Point03" tilt="-31.68" title="Acesso Coz.e Doca" description="" url="{node37}"/>
       <hotspot distance3D="142.876" customimagewidth="25" pan="-85.71" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/�cone Inf. com haste M�dia.png" customimageheight="35" id="Point02" tilt="-19.21" title="Acesso Doca&#xa;Local para&#xa;Carga e Descarga" description="" url=""/>
     </hotspots>
@@ -878,7 +878,7 @@
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
       <hotspot pan="-197.59" distance="3.83281" skinid="ht_node" target="110.3/-5.6/152.7" id="Point01" tilt="-29.23" title="Cozinha 2" description="" url="{node39}"/>
-      <hotspot pan="-268.01" distance="3.14052" skinid="ht_node" target="106.1/4.9/152.7" id="Point02" tilt="-27.09" title="Corredor da Cozinha" description="" url="{node40}"/>
+      <hotspot pan="-268.01" distance="3.14052" skinid="ht_node" target="106.1/4.9/152.7" id="Point02" tilt="-27.09" title="Corredor Cozinha" description="" url="{node40}"/>
       <hotspot pan="-85.62" distance="4.32378" skinid="ht_node" target="" id="Point03" tilt="-12.51" title="Doca Visão 01" description="" url="{node36}"/>
       <hotspot pan="-334.3" distance="3.98176" skinid="ht_node" target="" id="Point04" tilt="-24.9" title="Cozinha 1" description="" url="{node47}"/>
       <hotspot distance3D="142.876" customimagewidth="25" pan="-81" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/�cone Inf. com haste M�dia.png" customimageheight="35" id="Point05" tilt="-41.27" title="Acesso Doca&#xa;Local para&#xa;Carga e Descarga" description="" url=""/>
@@ -1013,14 +1013,14 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fov="140" tilt="90" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" tags="All|Saidaop|Floor1" nodeid="node44" info="" heading="109.625" altitude="931.20" copyright="Market3r" latitude="-19.93591693" longitude="-43.94086294" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:39" title="Saída Op. Dir. Visão 01">
+    <userdata description="" tags="All|Saidaop|Floor1" nodeid="node44" info="" heading="109.625" altitude="931.20" copyright="Market3r" latitude="-19.93591693" longitude="-43.94086294" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:39" title="Saída Op. Dir. 01">
       <mapcoords mapid="FloorPlan01" x_floorplan_percent="60.8235" x="1.06499" y_floorplan_percent="66.6899" y="-0.655746"/>
     </userdata>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot pan="-89.61" distance="4.3059" skinid="ht_node" target="" id="Point01" tilt="-16.14" title="Acesso Op. Visão 01" description="" url="{node30}"/>
-      <hotspot pan="-186.88" distance="1.77198" skinid="ht_node" target="" id="Point02" tilt="-35.06" title="Saída Op. Dir. Visão 02" description="" url="{node45}"/>
+      <hotspot pan="-89.61" distance="4.3059" skinid="ht_node" target="" id="Point01" tilt="-16.14" title="Acesso Op.Visão 01" description="" url="{node30}"/>
+      <hotspot pan="-186.88" distance="1.77198" skinid="ht_node" target="" id="Point02" tilt="-35.06" title="Saída Op. Dir. 02" description="" url="{node45}"/>
       <hotspot distance3D="171.451" customimagewidth="30" pan="-77.72" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/�cone Inf. com haste M�dia.png" customimageheight="43" id="Point03" tilt="-48.3" title="Acesso Cozinhas &#xa;&#xa;e Camarins" description="" url=""/>
       <hotspot distance3D="171.451" customimagewidth="30" pan="-179.8" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/�cone Inf. com haste gde.-1.png" customimageheight="55" id="Point04" tilt="-51.84" title="Acesso Salões&#xa;&#xa;e Mezanino" description="" url=""/>
     </hotspots>
@@ -1048,13 +1048,13 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fov="140" tilt="90" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" tags="All|Saidaop|Floor1" nodeid="node45" info="" heading="95.7433" altitude="931.20" copyright="Market3r" latitude="-19.93590457" longitude="-43.94087364" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:40" title="Saída Op. Dir. Visão 02">
+    <userdata description="" tags="All|Saidaop|Floor1" nodeid="node45" info="" heading="95.7433" altitude="931.20" copyright="Market3r" latitude="-19.93590457" longitude="-43.94087364" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:40" title="Saída Op. Dir. 02">
       <mapcoords mapid="FloorPlan01" x_floorplan_percent="59.1765" x="1.03615" y_floorplan_percent="70.6006" y="-0.694199"/>
     </userdata>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot pan="-16.51" distance="1.77198" skinid="ht_node" target="" id="Point01" tilt="-30.77" title="Saída Op. Dir. Visão 01" description="" url="{node44}"/>
+      <hotspot pan="-16.51" distance="1.77198" skinid="ht_node" target="" id="Point01" tilt="-30.77" title="Saída Op. Dir. 01" description="" url="{node44}"/>
       <hotspot pan="-287.66" distance="5.63748" skinid="ht_node" target="" id="Point02" tilt="-12.84" title="Salão Visão 06" description="" url="{node19}"/>
       <hotspot distance3D="177.166" customimagewidth="31" pan="-358.19" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/�cone Inf. com haste gde.-1.png" customimageheight="55" id="Point03" tilt="-47.21" title="Acesso Cozinhas&#xa;&#xa;e Camarins" description="" url=""/>
     </hotspots>
@@ -1082,14 +1082,14 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fov="140" tilt="90" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" tags="All|Saidaop|Floor1" nodeid="node67" info="" heading="96.5885" altitude="883.70" copyright="Market3r" latitude="-19.93594424" longitude="-43.94070241" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 15:02" title="Saída Op. Esq. Visão 01">
+    <userdata description="" tags="All|Saidaop|Floor1" nodeid="node67" info="" heading="96.5885" altitude="883.70" copyright="Market3r" latitude="-19.93594424" longitude="-43.94070241" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 15:02" title="Saída Op. Esq.">
       <mapcoords mapid="FloorPlan01" x_floorplan_percent="59.1373" x="1.03546" y_floorplan_percent="19.7626" y="-0.194321"/>
     </userdata>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
       <hotspot distance3D="182.881" customimagewidth="32" pan="-141.71" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/�cone Inf. com haste gde.-1.png" customimageheight="55" id="Point02" tilt="-35.76" title="Saída Lateral&#xa;&#xa;Operação e Serviços" description="" url=""/>
-      <hotspot pan="-135.88" distance="7.10777" skinid="ht_node" target="" id="Point03" tilt="-4.07" title="Acesso Camarim e Lat." description="" url="{node57}"/>
+      <hotspot pan="-135.88" distance="7.10777" skinid="ht_node" target="" id="Point03" tilt="-4.07" title="Acesso Camarim" description="" url="{node57}"/>
       <hotspot pan="-265.4" distance="5.23757" skinid="ht_node" target="121.0/-1.7/126.6" id="Point01" tilt="-30.89" title="Salão Visão 04" description="" url="{node96}"/>
     </hotspots>
     <media>
@@ -1122,7 +1122,7 @@
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot pan="-94.91" distance="4.17648" skinid="ht_node" target="" id="Point01" tilt="-17.03" title="Acesso Op. Visão 02" description="" url="{node49}"/>
+      <hotspot pan="-94.91" distance="4.17648" skinid="ht_node" target="" id="Point01" tilt="-17.03" title="Acesso Op.Visão 02" description="" url="{node49}"/>
       <hotspot pan="-140.37" id="Point02" tilt="-19.3" target="" skinid="ht_node" title="WC Camarim 1" description="" url="{node53}"/>
       <hotspot distance3D="102.87" customimagewidth="18" pan="-230.24" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Energia-1.png" customimageheight="18" id="Point03" tilt="-4.94" title="2 Pontos de Energia&#xa;&#xa;127V" description="" url=""/>
       <hotspot distance3D="91.4404" customimagewidth="16" pan="-164.98" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/WC Unissex.png" customimageheight="16" id="Point04" tilt="2.05" title="WC do Camarim&#xa;&#xa;Unissex" description="" url=""/>
@@ -1181,19 +1181,19 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fov="140" tilt="90" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" tags="AcessoCamarinsCozinhaDoca|All|Floor1" nodeid="node57" info="" heading="107.386" altitude="883.70" copyright="Market3r" latitude="-19.93598093" longitude="-43.94075809" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:48" title="Acesso Camarim e Lat.">
+    <userdata description="" tags="AcessoCamarinsCozinhaDoca|All|Floor1" nodeid="node57" info="" heading="107.386" altitude="883.70" copyright="Market3r" latitude="-19.93598093" longitude="-43.94075809" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 14:48" title="Acesso Camarim">
       <mapcoords mapid="FloorPlan01" x_floorplan_percent="67.4118" x="1.18034" y_floorplan_percent="32.6816" y="-0.32135"/>
     </userdata>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot pan="-177.59" distance="9.52091" skinid="ht_node" target="178.6/0.1/152.7" id="Point01" tilt="-11.99" title="Acesso Op. Visão 02" description="" url="{node49}"/>
+      <hotspot pan="-177.59" distance="9.52091" skinid="ht_node" target="178.6/0.1/152.7" id="Point01" tilt="-11.99" title="Acesso Op.Visão 02" description="" url="{node49}"/>
       <hotspot pan="-269.97" distance="4.42158" skinid="ht_node" target="109.0/-0.8/152.7" id="Point02" tilt="-10.2" title="Camarim 2" description="" url="{node61}"/>
       <hotspot pan="-247.07" distance="6.0873" skinid="ht_node" target="" id="Point03" tilt="-13.93" title="Palco" description="" url="{node20}"/>
       <hotspot distance3D="373.045" customimagewidth="14" pan="-358.38" fov="2.1499999999999999" use3D="0" target="" skinid="ht_info" customimage="media/Banheiro acess�vel.png" customimageheight="14" id="Point04" tilt="-0.24" title="WC Serviços&#xa;&#xa;Acessibilidade" description="" url=""/>
       <hotspot distance3D="125.731" customimagewidth="22" pan="-267.58" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Camarim com haste G.png" customimageheight="50" id="Point05" tilt="-26.52" title="Acesso&#xa;&#xa;Camarim 2" description="" url=""/>
       <hotspot distance3D="165.736" customimagewidth="29" pan="-250.74" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/�cone Inf. com haste gde.-1.png" customimageheight="52" id="Point06" tilt="-30.66" title="Acesso Lateral&#xa;&#xa;Palco" description="" url=""/>
-      <hotspot pan="-337.73" distance="7.10777" skinid="ht_node" target="91.7/0.3/152.7" id="Point07" tilt="-12.06" title="Saída Op. Esq. Visão 01" description="" url="{node67}"/>
+      <hotspot pan="-337.73" distance="7.10777" skinid="ht_node" target="91.7/0.3/152.7" id="Point07" tilt="-12.06" title="Saída Op. Esq." description="" url="{node67}"/>
     </hotspots>
     <media>
       <sound mode="0" pan="-1.000" pansize="10.000" tiltsize="10.000" nodechangekeep="1" field="90.000" ambientlevel="0.000" level="1.000" loop="30" id="_background" tilt="-1.000" startmutedmobile="0">
@@ -1229,7 +1229,7 @@
       <hotspot distance3D="102.87" customimagewidth="18" pan="-183.54" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Energia-1.png" customimageheight="18" id="Point01" tilt="-0.84" title="2 Pontos de Energia&#xa;&#xa;127V" description="" url=""/>
       <hotspot distance3D="102.87" customimagewidth="18" pan="-276.71" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/Energia-1.png" customimageheight="18" id="Point03" tilt="-16.22" title="2 Pontos de Energia&#xa;&#xa;127V" description="" url=""/>
       <hotspot distance3D="102.87" customimagewidth="18" pan="-86.57" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/WC Unissex.png" customimageheight="18" id="Point04" tilt="-6.83" title="WC Camarim&#xa;&#xa;Unissex" description="" url=""/>
-      <hotspot pan="-150.58" distance="4.42158" skinid="ht_node" target="-131.0/0.3/141.2" id="Point05" tilt="-10.42" title="Acesso Camarim e Lat." description="" url="{node57}"/>
+      <hotspot pan="-150.58" distance="4.42158" skinid="ht_node" target="-131.0/0.3/141.2" id="Point05" tilt="-10.42" title="Acesso Camarim" description="" url="{node57}"/>
     </hotspots>
     <media>
       <sound mode="0" pan="-1.000" pansize="10.000" tiltsize="10.000" nodechangekeep="1" field="90.000" ambientlevel="0.000" level="1.000" loop="30" id="_background" tilt="-1.000" startmutedmobile="0">
@@ -1396,7 +1396,7 @@
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
       <hotspot pan="-265.45" distance="15.0939" skinid="ht_node" target="89.5/-0.3/152.7" id="Point01" tilt="-20.72" title="Mezanino Visão 03" description="" url="{node70}"/>
-      <hotspot pan="-109" distance="5.12816" skinid="ht_node" target="" id="Point02" tilt="-5.75" title="Ent. WC Fem. Mezanino" description="" url="{node72}"/>
+      <hotspot pan="-109" distance="5.12816" skinid="ht_node" target="" id="Point02" tilt="-5.75" title="Ent. WC Fem. Mez." description="" url="{node72}"/>
       <hotspot distance3D="142.876" customimagewidth="25" pan="-98.12" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/�cone Inf. com haste M�dia.png" customimageheight="35" id="Point03" tilt="-23.11" title="Acesso&#xa;&#xa;WC Feminino" description="" url=""/>
     </hotspots>
     <media>
@@ -1557,7 +1557,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fov="140" tilt="90" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" tags="All|Floor2|Toilette4" nodeid="node72" info="" heading="99.8899" altitude="883.70" copyright="Market3r" latitude="-19.93591344" longitude="-43.94088206" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 15:09" title="Ent. WC Fem. Mezanino">
+    <userdata description="" tags="All|Floor2|Toilette4" nodeid="node72" info="" heading="99.8899" altitude="883.70" copyright="Market3r" latitude="-19.93591344" longitude="-43.94088206" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 15:09" title="Ent. WC Fem. Mez.">
       <mapcoords mapid="FloorPlan02" x_floorplan_percent="60.7843" x="1.0643" y_floorplan_percent="69.6229" y="-0.684586"/>
     </userdata>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
@@ -1597,7 +1597,7 @@
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot pan="-173.58" distance="3.96216" skinid="ht_node" target="87.4/0.5/126.6" id="Point01" tilt="-8.04" title="Ent. WC Fem. Mezanino" description="" url="{node72}"/>
+      <hotspot pan="-173.58" distance="3.96216" skinid="ht_node" target="87.4/0.5/126.6" id="Point01" tilt="-8.04" title="Ent. WC Fem. Mez." description="" url="{node72}"/>
     </hotspots>
     <media>
       <sound mode="0" pan="-1.000" pansize="10.000" tiltsize="10.000" nodechangekeep="1" field="90.000" ambientlevel="0.000" level="1.000" loop="30" id="_background" tilt="-1.000" startmutedmobile="0">
@@ -1663,7 +1663,7 @@
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
       <label background="1" border="1" borderradius="1" borderalpha="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" backgroundalpha="1" width="180" height="20" wordwrap="1" enabled="1"/>
       <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
-      <hotspot pan="-135.42" distance="2.3832" skinid="ht_node" target="" id="Point01" tilt="-15.22" title="WC Masc. Mezanino" description="" url="{node84}"/>
+      <hotspot pan="-135.42" distance="2.3832" skinid="ht_node" target="" id="Point01" tilt="-15.22" title="WC Masc.Mezanino" description="" url="{node84}"/>
       <hotspot distance3D="102.87" customimagewidth="18" pan="-137.16" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/WC Masculino.png" customimageheight="18" id="Point02" tilt="0.6" title="WC Masculino&#xa;&#xa;Coletivo" description="" url=""/>
       <hotspot pan="-351.68" distance="2.08532" skinid="ht_node" target="86.9/1.9/152.7" id="Point03" tilt="-30.95" title="Ent. WC Masc. 01" description="" url="{node80}"/>
       <hotspot distance3D="102.87" customimagewidth="18" pan="-99.93" fov="10" use3D="0" target="" skinid="ht_info" customimage="media/�cone Aten��o.png" customimageheight="18" id="Point04" tilt="-3.78" title="Acesso Restrito&#xa;&#xa;Funcionários" description="" url=""/>
@@ -1692,7 +1692,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fov="140" tilt="90" scaletofit="1" fovfisheye="360" fovstereographic="330"/>
     </view>
-    <userdata description="" tags="All|Floor2|Toilette3" nodeid="node84" info="" heading="104.96" altitude="883.70" copyright="Market3r" latitude="-19.93595731" longitude="-43.94075594" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 15:23" title="WC Masc. Mezanino">
+    <userdata description="" tags="All|Floor2|Toilette3" nodeid="node84" info="" heading="104.96" altitude="883.70" copyright="Market3r" latitude="-19.93595731" longitude="-43.94075594" source="" customnodeid="" author="Bruno Dias" comment="" datetime="23/12/2025 15:23" title="WC Masc.Mezanino">
       <mapcoords mapid="FloorPlan02" x_floorplan_percent="63.1765" x="1.10619" y_floorplan_percent="30.4469" y="-0.299377"/>
     </userdata>
     <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
